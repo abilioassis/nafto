@@ -2,12 +2,11 @@
 
 * [Nafto Design System](README.md)
 
-## INTRODUCTION
+## IDENTIDADE VISUAL
 
-* [Design Principles](introduction/design-principles.md)
-* [Brand Guidelines](introduction/brand-guidelines.md)
-* [How updates work](introduction/how-updates-work.md)
-* [Accessibility](introduction/accessibility.md)
+* [Identidade Visual](identidade-visual/identidade-visual.md)
+* [How updates work](identidade-visual/how-updates-work.md)
+* [Accessibility](identidade-visual/accessibility.md)
 
 ## identity
 

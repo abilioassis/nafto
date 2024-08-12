@@ -4,11 +4,29 @@ description: Nafto é o design system da Petrobras.
 
 # Nafto Design System
 
-## O que é um design system?
+## O que é um Design System?
 
-> Um design system  oferece uma biblioteca de estilo visual, componentes e outras preocupações documentadas e lançadas por um indivíduo, equipe ou comunidade como código e ferramenta de design, para que os produtos que o adotam possam ser mais eficientes e coesos.
->
-> **— Nathan Curtis**
+O Design System é um conjunto de diretrizes, componentes e padrões que definem a identidade visual e a experiência de usuário para os produtos digitais da nossa empresa. Ele serve como uma fonte única de verdade para designers, desenvolvedores e outros stakeholders, garantindo que todos os elementos de interface sejam consistentes e alinhados com o **Sistema de Identidade Visual Petrobras**.
+
+## O que é Nafto?
+
+Nafto é o design system da Petrobras, e seu nome vem do esperanto, onde "nafto" significa petróleo.
+
+## Objetivos do Nafto
+
+1. **Unificar a Experiência do Usuário:** O principal objetivo do Design System é criar uma experiência consistente em todos os produtos digitais da empresa. Isso significa que todos os elementos visuais e interativos devem seguir as mesmas diretrizes, garantindo que os usuários reconheçam a marca e se sintam à vontade independentemente da plataforma ou dispositivo utilizado.
+2. **Acelerar o Desenvolvimento:** Ao fornecer componentes pré-definidos e padrões claros, o Nafto pretende reduzir o tempo necessário para o design e desenvolvimento de novos produtos e funcionalidades. Isso permite que as equipes foquem em resolver problemas específicos dos usuários, em vez de recriar elementos comuns.
+3. **Facilitar a Colaboração:** O Nafto atua como uma linguagem comum entre designers, desenvolvedores e outros stakeholders. Com diretrizes claras, as equipes podem colaborar de maneira mais eficaz, minimizando mal-entendidos e garantindo que todos estejam alinhados quanto aos padrões da marca.
+4. **Escalabilidade:** Conforme novos produtos digitais são desenvolvidos, o Nafto intenciona garantir que a identidade visual e a experiência do usuário sejam mantidas de maneira coesa. Isso é essencial para a escalabilidade dos produtos e para a manutenção da qualidade ao longo do tempo.
+
+## Público Alvo
+
+O Design System foi projetado para ser utilizado principalmente por:
+
+1. **Designers:** Para garantir que todos os elementos visuais estejam alinhados com a identidade da marca e proporcionar uma experiência consistente aos usuários.
+2. **Desenvolvedores:** Para facilitar a implementação de interfaces que seguem os padrões definidos, reduzindo o tempo de desenvolvimento e a necessidade de retrabalho.
+3. **Gerentes de Produto:** Para assegurar que os produtos atendam às diretrizes da empresa e ofereçam uma experiência de usuário coesa, o que contribui para o atingimento dos indicadores de negócio.
+4. **Gerentes de Projeto:** Para coordenar o desenvolvimento de produtos digitais com base nos padrões do Design System, garantindo que as entregas estejam dentro do prazo e orçamento, ao mesmo tempo em que mantêm a consistência e qualidade.
 
 ## Princípios do Nafto
 

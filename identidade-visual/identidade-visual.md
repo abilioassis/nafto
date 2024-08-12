@@ -1,8 +1,12 @@
-# Brand Guidelines
+---
+description: É o conjunto de elementos gráficos que compõem o universo da marca.
+---
 
-## 🧱 Foundations
+# Identidade Visual
 
-Our brand foundation is inextricably linked to the emotional and functional sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+## 🧱 Origem
+
+A identidade visual visual das é derivada do Manual do Sistema de Identidade Visual Petrobras. O Nafto se baseia nesse manual a fim de orientar designers e desenvolvedores na criação de interfaces de produtos digitais.
 
 ## 🛠 How we build
 
