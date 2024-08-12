@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🖌️ Nafto Design System](README.md)
+* [Nafto Design System](README.md)
 
 ## INTRODUCTION
 

@@ -2,7 +2,7 @@
 description: Nafto é o design system da Petrobras
 ---
 
-# 🖌️ Nafto Design System
+# Nafto Design System
 
 ## O que é um design system?
 
