@@ -2,11 +2,14 @@
 
 * [Nafto Design System](README.md)
 
-## IDENTIDADE VISUAL
+## GUIA DE IDENTIDADE VISUAL
 
-* [Identidade Visual](identidade-visual/identidade-visual.md)
-* [How updates work](identidade-visual/how-updates-work.md)
-* [Accessibility](identidade-visual/accessibility.md)
+* [Marca](guia-de-identidade-visual/marca.md)
+* [Tipografia](guia-de-identidade-visual/tipografia.md)
+* [Paleta de Cores](guia-de-identidade-visual/paleta-de-cores.md)
+* [Iconografia](guia-de-identidade-visual/iconografia.md)
+* [How updates work](guia-de-identidade-visual/how-updates-work.md)
+* [Accessibility](guia-de-identidade-visual/accessibility.md)
 
 ## identity
 
