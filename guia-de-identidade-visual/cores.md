@@ -10,3 +10,7 @@ A paleta de cores é um elemento fundamental da identidade visual de nossa marca
 
 ```
 {% endcode %}
+
+
+
+{% embed url="https://codepen.io/abilioassis/pen/XWLzzYV" %}
