@@ -34,7 +34,6 @@ Adotamos a escala tipográfica do [**Material Design** (M2) do Google](https://m
 | **Headline 5 (H5):** 24px | **BUTTON:** 14px                    |
 | **Headline 6 (H6):** 20px | **Caption:** 12px                   |
 |                           | **Overline:** 10px                  |
-|                           |                                     |
 
 ## Aplicação da Escala Tipográfica
 
