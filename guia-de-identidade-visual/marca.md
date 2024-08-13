@@ -49,3 +49,7 @@ A marca Petrobras deve ter a mesma largura da marca nominativa do Governo Federa
 A marca Petrobras deve ter a mesma largura da expressão “Governo Federal”. As duas marcas devem ser separadas por distância equivalente ao dobro da largura da letra “I” de “BRASIL”.
 
 <\<ADICIONAR IMAGEM ILUSTRATIVA>>
+
+## Download de Marcas
+
+{% file src="../.gitbook/assets/Pacote Marca Petrobras 2024.zip" %}

@@ -57,3 +57,9 @@ A aplicação correta da escala tipográfica garante que a hierarquia visual sej
 * **Caption:** Ideal para pequenas legendas, descrições breves ou rótulos, fornecendo informações adicionais de forma discreta.
 * **Overline:** Use para etiquetas ou textos de apoio acima de um título, fornecendo contexto adicional ou categorizando o conteúdo de forma clara e concisa.
 * **Button:** Esta variante é específica para botões, onde a legibilidade e a clareza são cruciais. Use para todos os textos em botões, garantindo que o texto seja fácil de ler em qualquer tamanho de botão.
+
+## Arquivos da Fonte Petrobras Sans
+
+
+
+{% file src="../.gitbook/assets/Pacote Marca Petrobras 2024.zip" %}
