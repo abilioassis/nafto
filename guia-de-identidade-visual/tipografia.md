@@ -24,7 +24,7 @@ Se a plataforma ou tecnologia utilizada impuser restrições técnicas que impe�
 
 ## Escala Tipográfica
 
-Adotamos a escala tipográfica do **Material Design** do Google para garantir uma hierarquia visual clara e uma experiência de leitura consistente em todos os produtos digitais. A escala sugerida é a seguinte:
+Adotamos a escala tipográfica do [**Material Design** (M2) do Google](https://m2.material.io/design/typography/the-type-system.html) para garantir uma hierarquia visual clara e uma experiência de leitura consistente em todos os produtos digitais. A escala sugerida é a seguinte:
 
 * **Headline 1 (H1):** 96px
 * **Headline 2 (H2):** 60px
@@ -42,7 +42,7 @@ Adotamos a escala tipográfica do **Material Design** do Google para garantir um
 
 ## Aplicação da Escala Tipográfica
 
-A aplicação correta da escala tipográfica garante que a hierarquia visual seja clara e consistente em todos os produtos digitais. A seguir, detalhamos como cada variante tipográfica deve ser utilizada:
+A aplicação correta da escala tipográfica garante que a hierarquia visual seja clara e consistente em todos os produtos digitais. A seguir, detalhamos como cada variante tipográfica deve ser utilizada alinhada às orientações do [Material Design (M2)](https://m2.material.io/design/typography/the-type-system.html):
 
 * **Headline 1 (H1):** Use para títulos principais em páginas e seções importantes, onde você deseja destacar uma mensagem central. Normalmente utilizado em telas ou seções que exigem grande impacto visual.
 * **Headline 2 (H2):** Ideal para títulos de seções secundárias que ainda precisam de destaque, mas com menor ênfase que o H1. Utilize em páginas com múltiplas seções principais.
@@ -57,7 +57,3 @@ A aplicação correta da escala tipográfica garante que a hierarquia visual sej
 * **Caption:** Ideal para pequenas legendas, descrições breves ou rótulos, fornecendo informações adicionais de forma discreta.
 * **Overline:** Use para etiquetas ou textos de apoio acima de um título, fornecendo contexto adicional ou categorizando o conteúdo de forma clara e concisa.
 * **Button:** Esta variante é específica para botões, onde a legibilidade e a clareza são cruciais. Use para todos os textos em botões, garantindo que o texto seja fácil de ler em qualquer tamanho de botão.
-
-***
-
-Essa aplicação detalhada da escala tipográfica do Material Design M2 assegura que cada nível de hierarquia seja utilizado de forma adequada, proporcionando uma experiência de usuário coesa e organizada.
