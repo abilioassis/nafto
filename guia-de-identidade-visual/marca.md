@@ -6,8 +6,6 @@ description: >-
 
 # Marca
 
-## **Introdução**
-
 O Nafto segue as especificações da [Marca Petrobras](https://petrobras.com.br/quem-somos/nossa-marca). As orientações a seguir foram extraídas do capítulo 1 do Sistema de Identidade Visual Petrobras (documento público), com foco exclusivo em mídia digital.
 
 ## **Símbolo e Logotipo**

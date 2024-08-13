@@ -6,10 +6,8 @@
 
 * [Marca](guia-de-identidade-visual/marca.md)
 * [Tipografia](guia-de-identidade-visual/tipografia.md)
-* [Paleta de Cores](guia-de-identidade-visual/paleta-de-cores.md)
-* [Iconografia](guia-de-identidade-visual/iconografia.md)
-* [How updates work](guia-de-identidade-visual/how-updates-work.md)
-* [Accessibility](guia-de-identidade-visual/accessibility.md)
+* [Cores](guia-de-identidade-visual/cores.md)
+* [Ilustrações e Ícones](guia-de-identidade-visual/ilustracoes-e-icones.md)
 
 ## identity
 

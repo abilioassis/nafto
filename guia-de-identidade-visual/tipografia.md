@@ -14,9 +14,9 @@ A tipografia desempenha um papel crucial na comunicação da identidade da marca
 
 ## Fonte Alternativa
 
-**Nome da Fonte:** Segoe UI.
+**Nome da Fonte:** Trebuchet MS.
 
-**Descrição:** Caso não seja possível tecnicamente utilizar a fonte principal utilize a fonte alternativa. Segoe UI é uma fonte sans-serif moderna e limpa, projetada para proporcionar excelente legibilidade em interfaces digitais. Como a fonte padrão do sistema operacional Windows, ela é amplamente utilizada em aplicações e documentos, oferecendo um estilo neutro e profissional que se adapta bem a diversos contextos corporativos e de design.
+**Descrição:** Quando o uso da fonte Petrobras Sans não for possível, a fonte alternativa recomendada é a Trebuchet MS. Esta é uma fonte de sistema amplamente disponível nos softwares mais comuns, conforme diretrizes do Manual do Sistema de Identidade Visual da Petrobras.
 
 ## Casos Excepcionais
 
@@ -58,8 +58,6 @@ A aplicação correta da escala tipográfica garante que a hierarquia visual sej
 * **Overline:** Use para etiquetas ou textos de apoio acima de um título, fornecendo contexto adicional ou categorizando o conteúdo de forma clara e concisa.
 * **Button:** Esta variante é específica para botões, onde a legibilidade e a clareza são cruciais. Use para todos os textos em botões, garantindo que o texto seja fácil de ler em qualquer tamanho de botão.
 
-## Arquivos da Fonte Petrobras Sans
+## Donwload de Fonte Petrobras Sans
 
-
-
-{% file src="../.gitbook/assets/Pacote Marca Petrobras 2024.zip" %}
+{% file src="../.gitbook/assets/PetrobrasSans.zip" %}
