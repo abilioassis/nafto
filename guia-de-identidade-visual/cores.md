@@ -6,6 +6,10 @@ A paleta de cores é um elemento fundamental da identidade visual de nossa marca
 
 São as cores presentes no símbolo e no logotipo da marca Petrobras e suas versões. Por isso, nos identificam facilmente e devem estar presente na comunicação da companhia.
 
+{% embed url="https://codepen.io/abilioassis/pen/jOjaYvK" %}
 
+## Cores de Apoio
 
-{% embed url="https://codepen.io/abilioassis/pen/XWLzzYV?editors=1000" %}
+As cores de apoio, combinadas com cores principais, oferecem flexibilidade ao sistema de identidade para a criação de diversos materiais.
+
+{% embed url="https://codepen.io/abilioassis/pen/XWLzzYV" %}
