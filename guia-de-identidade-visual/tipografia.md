@@ -26,19 +26,27 @@ Se a plataforma ou tecnologia utilizada impuser restrições técnicas que impe�
 
 Adotamos a escala tipográfica do [**Material Design** (M2) do Google](https://m2.material.io/design/typography/the-type-system.html) para garantir uma hierarquia visual clara e uma experiência de leitura consistente em todos os produtos digitais. A escala é a seguinte:
 
-* **Headline 1 (H1):** 96px
-* **Headline 2 (H2):** 60px
-* **Headline 3 (H3):** 48px
-* **Headline 4 (H4):** 34px
-* **Headline 5 (H5):** 24px
-* **Headline 6 (H6):** 20px
-* **Subtitle 1:** 16px
-* **Subtitle 2:** 14px
-* **Body 1 (Texto Principal):** 16px
-* **Body 2 (Texto Secundário):** 14px
-* **BUTTON:** 14px
-* **Caption:** 12px
-* **Overline:** 10px
+| **Headline 2 (H2):** 60px | **Subtitle 2:** 14px                |
+| ------------------------- | ----------------------------------- |
+| **Headline 3 (H3):** 48px | **Body 1 (Texto Principal):** 16px  |
+| **Headline 4 (H4):** 34px | **Body 2 (Texto Secundário):** 14px |
+| **Headline 5 (H5):** 24px | **BUTTON:** 14px                    |
+| **Headline 6 (H6):** 20px | **Caption:** 12px                   |
+|                           | **Overline:** 10px                  |
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 ## Aplicação da Escala Tipográfica
 
