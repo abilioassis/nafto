@@ -34,20 +34,6 @@ Adotamos a escala tipográfica do [**Material Design** (M2) do Google](https://m
 | **Headline 6 (H6):** 20px | **Caption:** 12px                   |
 |                           | **Overline:** 10px                  |
 
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-
 ## Aplicação da Escala Tipográfica
 
 A aplicação correta da escala tipográfica garante que a hierarquia visual seja clara e consistente em todos os produtos digitais. A seguir, detalhamos como cada variante tipográfica deve ser utilizada alinhada às orientações do [Material Design (M2)](https://m2.material.io/design/typography/the-type-system.html):
