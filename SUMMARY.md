@@ -11,7 +11,7 @@
 
 ## ACESSIBILIDADE
 
-* [Introdução](acessibilidade/introducao.md)
+* [Acessibilidade Começa no Design](acessibilidade/acessibilidade-comeca-no-design.md)
 * [Regiões de uma Página Web](acessibilidade/regioes-de-uma-pagina-web.md)
 * [A Importância dos Títulos](acessibilidade/a-importancia-dos-titulos.md)
 * [Disponibilize as Funcionalidades pelo Teclado](acessibilidade/disponibilize-as-funcionalidades-pelo-teclado.md)
