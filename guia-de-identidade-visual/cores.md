@@ -8,7 +8,9 @@ São as cores presentes no símbolo e no logotipo da marca Petrobras e suas vers
 
 {% embed url="https://codepen.io/abilioassis/pen/jOjaYvK" %}
 
-### Variantes Claras e Escuras da Cor Primária
+### Variantes Claras e Escuras
+
+É benéfico ter variantes claras e escuras das cores primárias para compor o tema de cores de uma aplicação. As variantes apresentadas foram geradas utilizando o [gerador de paletas](https://m2.material.io/design/color/the-color-system.html#tools-for-picking-colors) do Material Design, que emprega um algoritmo para criar paletas usáveis e visualmente atraentes a partir de uma cor fornecida, como as cores principais da marca.
 
 {% embed url="https://codepen.io/abilioassis/pen/jOjaJOO" %}
 
