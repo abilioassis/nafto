@@ -12,17 +12,23 @@ O Nafto segue as especificações da [Marca Petrobras](https://petrobras.com.br/
 
 A marca é uma composição entre símbolo (a) e logotipo (b).
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Crédito da imagem: Manual do Sistema de Identidade Visual Petrobras</p></figcaption></figure>
+
 <\<ADICIONAR IMAGEM ILUSTRATIVA>>
 
 ## Área de Não Interferência
 
 É a distância mínima entre a marca e qualquer elemento que possa interferir na sua visualização. Essa distância é determinada pela altura (x) das letras “BR”.
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Crédito da imagem: Manual do Sistema de Identidade Visual Petrobras</p></figcaption></figure>
+
 <\<ADICIONAR IMAGEM ILUSTRATIVA>>
 
 ## Redução Máxima
 
 Existem tamanhos mínimos permitidos para aplicação da marca. Em mídia digital, a redução máxima é 100 pixels de largura para assinatura horizontal e 74 pixels de largura para assinatura vertical. Em telas de alta-resolução, essa medida pode resultar em uma marca muito pequena. Nesses casos, o tamanho mínimo deverá ser aquele que ainda ofereça boa legibilidade.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Crédito da imagem: Manual do Sistema de Identidade Visual Petrobras</p></figcaption></figure>
 
 <\<ADICIONAR IMAGEM ILUSTRATIVA>>
 
@@ -46,7 +52,7 @@ A marca Petrobras deve ter a mesma largura da marca nominativa do Governo Federa
 
 A marca Petrobras deve ter a mesma largura da expressão “Governo Federal”. As duas marcas devem ser separadas por distância equivalente ao dobro da largura da letra “I” de “BRASIL”.
 
-<\<ADICIONAR IMAGEM ILUSTRATIVA>>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Crédito da imagem: Manual do Sistema de Identidade Visual Petrobras</p></figcaption></figure>
 
 ## Download de Marcas
 
