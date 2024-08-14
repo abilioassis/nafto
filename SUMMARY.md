@@ -7,7 +7,6 @@
 * [Marca](guia-de-identidade-visual/marca.md)
 * [Tipografia](guia-de-identidade-visual/tipografia.md)
 * [Cores](guia-de-identidade-visual/cores.md)
-* [Ilustrações e Ícones](guia-de-identidade-visual/ilustracoes-e-icones.md)
 
 ## ACESSIBILIDADE
 
@@ -20,15 +19,15 @@
 * [Como Descrever Imagens](acessibilidade/como-descrever-imagens.md)
 * [Crie Formulários Acessíveis](acessibilidade/crie-formularios-acessiveis.md)
 
-## identity
+## Componentes Petrobras
 
-* [Logos](identity/logos.md)
-* [Colors](identity/colors.md)
-* [Typography](identity/typography.md)
-* [Imagery](identity/imagery.md)
+* [Header](componentes-petrobras/header.md)
+* [Icons](componentes-petrobras/icons.md)
+* [Buttons](componentes-petrobras/buttons.md)
+* [Inputs](componentes-petrobras/inputs.md)
 
-## Components
+## Tecnologias
 
-* [Icons](components/icons.md)
-* [Buttons](components/buttons.md)
-* [Inputs](components/inputs.md)
+* [React](tecnologias/react.md)
+* [Angular](tecnologias/angular.md)
+* [OutSystems](tecnologias/outsystems.md)
