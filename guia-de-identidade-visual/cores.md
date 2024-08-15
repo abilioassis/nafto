@@ -4,21 +4,27 @@ A paleta de cores é um elemento fundamental da identidade visual de nossa marca
 
 ## Cores Principais da Marca
 
-São as cores presentes no símbolo e no logotipo da marca Petrobras e suas versões. Por isso, nos identificam facilmente e devem estar presente na comunicação da companhia. É benéfico ter variantes claras e escuras das cores primárias para compor o tema de cores de uma aplicação. As variantes apresentadas foram geradas utilizando o plugin Material Pallet do Figma fixando a cor da marca na tonalidade "500".
+São as cores presentes no símbolo e no logotipo da marca Petrobras e suas versões. Por isso, nos identificam facilmente e devem estar presente na comunicação da companhia.
 
-<figure><img src="../.gitbook/assets/cores-principais-variacoes.png" alt=""><figcaption><p>Cores Principais e Variações Geradas pelo Plugin Material Pallete no Figma</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/cores-principais.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;É útil ter variantes claras e escuras das cores primárias para compor o tema de cores de uma aplicação.  Ao usar o plugin "Material Palette" no Figma para a cor Verde Petrobras o plugin gera uma paleta de cores completa baseada nessa cor específica.
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Verde Petrobras e Variações</p></figcaption></figure>
+
+Além das variações claras e escuras o Material Design define cores de destaque (accente colors: a100, a200, a400 e a700).
+
+<figure><img src="../.gitbook/assets/cores-principais-variacoes.png" alt=""><figcaption><p>Cores Principais e Variações</p></figcaption></figure>
 
 ## Cores de Apoio da Marca
 
 As cores de apoio, combinadas com cores principais, oferecem flexibilidade ao sistema de identidade para a criação de diversos materiais.
 
-<figure><img src="../.gitbook/assets/cores-de-apoio-variacoes.png" alt=""><figcaption><p>Cores de Apoio e Variações Geradas pelo Plugin Material Pallete no Figma</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/cores-apoio-variacoes.png" alt=""><figcaption></figcaption></figure>
 
 ## Cor Cinza da Marca
 
 A cor cinza é uma cor de apoio e é amplamente usada nas interfaces de produtos digitais.
-
-<figure><img src="../.gitbook/assets/cinza-variacoes.png" alt=""><figcaption><p>Cor Cinza e Variações Geradas pelo Plugin Material Pallete no Figma</p></figcaption></figure>
 
 ## Branco
 

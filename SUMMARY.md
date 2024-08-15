@@ -5,8 +5,8 @@
 ## GUIA DE IDENTIDADE VISUAL
 
 * [Marca](guia-de-identidade-visual/marca.md)
-* [Tipografia](guia-de-identidade-visual/tipografia.md)
 * [Cores](guia-de-identidade-visual/cores.md)
+* [Tipografia](guia-de-identidade-visual/tipografia.md)
 
 ## ACESSIBILIDADE
 
@@ -26,8 +26,8 @@
 * [Buttons](componentes-petrobras/buttons.md)
 * [Inputs](componentes-petrobras/inputs.md)
 
-## Tecnologias
+## Tecnologias e Plataformas
 
-* [React](tecnologias/react.md)
-* [Angular](tecnologias/angular.md)
-* [OutSystems](tecnologias/outsystems.md)
+* [React](tecnologias-e-plataformas/react.md)
+* [Angular](tecnologias-e-plataformas/angular.md)
+* [OutSystems](tecnologias-e-plataformas/outsystems.md)
