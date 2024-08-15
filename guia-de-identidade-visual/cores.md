@@ -19,3 +19,14 @@ As cores de apoio, combinadas com cores principais, oferecem flexibilidade ao si
 A cor cinza é uma cor de apoio e é amplamente usada nas interfaces de produtos digitais.
 
 <figure><img src="../.gitbook/assets/cinza-variacoes.png" alt=""><figcaption><p>Cor Cinza e Variações Geradas pelo Plugin Material Pallete no Figma</p></figcaption></figure>
+
+## Branco
+
+De acordo com o Manual do Sistema de Identidade Visual Petrobras: _"A cor branca representa equilíbrio e transmite clareza. Ela é fundamental para o sistema de identidade visual e é, preferencialmente, a base de todos os nossos materiais."_
+
+## Cores Restritas
+
+O **preto** e o **vermelho** não são cores da paleta Petrobras e só podem ser utilizadas de acordo com as seguintes orientações presentes no Manual do Sistema de Identidade Visual Petrobras:
+
+* A cor preta só pode ser utilizada em textos, pictogramas e na versão da marca em preto, quando for impossível o uso de outras versões da marca. Nunca a utilize como cor de fundo ou predominante no layout.
+* A cor vermelha só pode ser utilizada em pictogramas e ilustrações que façam sentido com a cor (doação de sangue, por exemplo) e para proibições. Nunca a utilize como cor de fundo ou predominante no layout.
