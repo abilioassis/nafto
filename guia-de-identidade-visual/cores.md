@@ -12,4 +12,10 @@ São as cores presentes no símbolo e no logotipo da marca Petrobras e suas vers
 
 As cores de apoio, combinadas com cores principais, oferecem flexibilidade ao sistema de identidade para a criação de diversos materiais.
 
-<figure><img src="../.gitbook/assets/cores-de-apoio-variacoes.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cores-de-apoio-variacoes.png" alt=""><figcaption><p>Cores de Apoio e Variações Geradas pelo Plugin Material Pallete no Figma</p></figcaption></figure>
+
+## Cor Cinza da Marca
+
+A cor cinza é uma cor de apoio e é amplamente usada nas interfaces de produtos digitais.
+
+<figure><img src="../.gitbook/assets/cinza-variacoes.png" alt=""><figcaption><p>Cor Cinza e Variações Geradas pelo Plugin Material Pallete no Figma</p></figcaption></figure>
