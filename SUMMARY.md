@@ -4,9 +4,9 @@
 
 ## IDENTIDADE VISUAL
 
-* [Marca](identidade-visual/marca.md)
-* [Cores](identidade-visual/cores.md)
-* [Tipografia](identidade-visual/tipografia.md)
+* [Marca](guia-de-identidade-visual/marca.md)
+* [Cores](guia-de-identidade-visual/cores.md)
+* [Tipografia](guia-de-identidade-visual/tipografia.md)
 
 ## ACESSIBILIDADE
 
