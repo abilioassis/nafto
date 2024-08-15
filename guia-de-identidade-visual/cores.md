@@ -22,5 +22,4 @@ As cores de apoio, combinadas com cores principais, oferecem flexibilidade ao si
 
 ### Variantes Claras e Escuras das Cores de Apoio
 
-<figure><img src="../.gitbook/assets/cores-de-apoio-variacoes.png" alt=""><figcaption><p>Cores de Apoio e Variações Geradas pelo Plugin Material Pallete no Figma</p></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/cores-de-apoio-variacoes.png" alt=""><figcaption></figcaption></figure>
