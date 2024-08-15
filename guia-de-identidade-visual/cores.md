@@ -28,5 +28,5 @@ De acordo com o Manual do Sistema de Identidade Visual Petrobras: _"A cor branca
 
 O **preto** e o **vermelho** não são cores da paleta Petrobras e só podem ser utilizadas de acordo com as seguintes orientações presentes no Manual do Sistema de Identidade Visual Petrobras:
 
-* A cor preta só pode ser utilizada em textos, pictogramas e na versão da marca em preto, quando for impossível o uso de outras versões da marca. Nunca a utilize como cor de fundo ou predominante no layout.
-* A cor vermelha só pode ser utilizada em pictogramas e ilustrações que façam sentido com a cor (doação de sangue, por exemplo) e para proibições. Nunca a utilize como cor de fundo ou predominante no layout.
+* A cor **preta** só pode ser utilizada em textos, pictogramas e na versão da marca em preto, quando for impossível o uso de outras versões da marca. Nunca a utilize como cor de fundo ou predominante no layout.
+* A cor **vermelha** só pode ser utilizada em pictogramas e ilustrações que façam sentido com a cor (doação de sangue, por exemplo) e para proibições. Nunca a utilize como cor de fundo ou predominante no layout.
