@@ -8,9 +8,13 @@ São as cores presentes no símbolo e no logotipo da marca Petrobras e suas vers
 
 {% embed url="https://codepen.io/abilioassis/pen/jOjaYvK" %}
 
-### Variantes Claras e Escuras
+### Variantes Claras e Escuras das Cores Principais
 
 É benéfico ter variantes claras e escuras das cores primárias para compor o tema de cores de uma aplicação. As variantes apresentadas foram geradas utilizando o [gerador de paletas](https://m2.material.io/design/color/the-color-system.html#tools-for-picking-colors) do Material Design, que emprega um algoritmo para criar paletas usáveis e visualmente atraentes a partir de uma cor fornecida, como as cores principais da marca.
+
+<figure><img src="../.gitbook/assets/cores-principais-variacoes.png" alt=""><figcaption><p>Cores Principais e Variações Geradas pelo Plugin Material Pallete no Figma</p></figcaption></figure>
+
+
 
 {% embed url="https://codepen.io/abilioassis/pen/jOjaJOO" %}
 
@@ -19,4 +23,8 @@ São as cores presentes no símbolo e no logotipo da marca Petrobras e suas vers
 As cores de apoio, combinadas com cores principais, oferecem flexibilidade ao sistema de identidade para a criação de diversos materiais.
 
 {% embed url="https://codepen.io/abilioassis/pen/XWLzzYV" %}
+
+### Variantes Claras e Escuras das Cores de Apoio
+
+
 
