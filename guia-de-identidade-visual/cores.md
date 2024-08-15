@@ -12,7 +12,7 @@ São as cores presentes no símbolo e no logotipo da marca Petrobras e suas vers
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Verde Petrobras e Variações</p></figcaption></figure>
 
-Além das variações claras e escuras o Material Design define cores de destaque (accente colors: a100, a200, a400 e a700).
+Além das variações claras e escuras o Material Design define cores de destaque (accente colors: a100, a200, a400 e a700) quando possível.
 
 <figure><img src="../.gitbook/assets/cores-principais-variacoes.png" alt=""><figcaption><p>Cores Principais e Variações</p></figcaption></figure>
 
@@ -20,11 +20,13 @@ Além das variações claras e escuras o Material Design define cores de destaqu
 
 As cores de apoio, combinadas com cores principais, oferecem flexibilidade ao sistema de identidade para a criação de diversos materiais.
 
-<figure><img src="../.gitbook/assets/cores-apoio-variacoes.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cores-apoio-variacoes.png" alt=""><figcaption><p>Cores de Apoio e Variações</p></figcaption></figure>
 
-## Cor Cinza da Marca
+## Cinza
 
 A cor cinza é uma cor de apoio e é amplamente usada nas interfaces de produtos digitais.
+
+<figure><img src="../.gitbook/assets/cinza.png" alt=""><figcaption><p>Cinza e Variações</p></figcaption></figure>
 
 ## Branco
 
@@ -39,4 +41,4 @@ O **preto** e o **vermelho** não são cores da paleta Petrobras e só podem ser
 
 ## Download do Arquivo do Figma com as Cores da Marca
 
-{% file src="../.gitbook/assets/cores-da-marca-petrobras.fig" %}
+{% file src="../.gitbook/assets/cores-marca-petrobras.fig" %}
