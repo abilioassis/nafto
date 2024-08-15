@@ -30,3 +30,7 @@ O **preto** e o **vermelho** não são cores da paleta Petrobras e só podem ser
 
 * A cor **preta** só pode ser utilizada em textos, pictogramas e na versão da marca em preto, quando for impossível o uso de outras versões da marca. Nunca a utilize como cor de fundo ou predominante no layout.
 * A cor **vermelha** só pode ser utilizada em pictogramas e ilustrações que façam sentido com a cor (doação de sangue, por exemplo) e para proibições. Nunca a utilize como cor de fundo ou predominante no layout.
+
+## Download do Arquivo do Figma com as Cores da Marca
+
+{% file src="../.gitbook/assets/cores-da-marca-petrobras.fig" %}
