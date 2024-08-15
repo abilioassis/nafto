@@ -26,7 +26,7 @@ Se a plataforma ou tecnologia utilizada impuser restrições técnicas que impe�
 
 Adotamos a escala tipográfica do [**Material Design** (M2) do Google](https://m2.material.io/design/typography/the-type-system.html) para garantir uma hierarquia visual clara e uma experiência de leitura consistente em todos os produtos digitais. A escala é a seguinte:
 
-| Headline 1 (H1): 96px     | Subtitle 1: 16px                    |
+| **Headline 1 (H1):** 96px | **Subtitle 1:** 16px                |
 | ------------------------- | ----------------------------------- |
 | **Headline 2 (H2):** 60px | **Subtitle 2:** 14px                |
 | **Headline 3 (H3):** 48px | **Body 1 (Texto Principal):** 16px  |
