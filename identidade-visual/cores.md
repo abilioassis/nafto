@@ -2,7 +2,7 @@
 
 A paleta de cores é um elemento fundamental da identidade visual de nossa marca. Ela não só define a estética dos nossos produtos digitais, mas também influencia a percepção e as emoções do usuário. É crucial que as cores sejam aplicadas de maneira consistente para manter a coerência em todos os pontos de contato com o usuário.
 
-## Cores Principais da Marca
+## Cores Principais
 
 São as cores presentes no símbolo e no logotipo da marca Petrobras e suas versões. Por isso, nos identificam facilmente e devem estar presente na comunicação da companhia.
 
@@ -10,13 +10,13 @@ São as cores presentes no símbolo e no logotipo da marca Petrobras e suas vers
 
 &#x20;É útil ter variantes claras e escuras das cores primárias para compor o tema de cores de uma aplicação.  Ao usar o plugin "Material Palette" no Figma para a cor Verde Petrobras o plugin gera uma paleta de cores completa baseada nessa cor específica.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Verde Petrobras e Variações</p></figcaption></figure>
+
 
 Além das variações claras e escuras o Material Design define cores de destaque (accente colors: a100, a200, a400 e a700) quando possível.
 
 <figure><img src="../.gitbook/assets/cores-principais-variacoes.png" alt=""><figcaption><p>Cores Principais e Variações</p></figcaption></figure>
 
-## Cores de Apoio da Marca
+## Cores de Apoio
 
 As cores de apoio, combinadas com cores principais, oferecem flexibilidade ao sistema de identidade para a criação de diversos materiais.
 
