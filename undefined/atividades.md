@@ -18,7 +18,7 @@
   * Gerar o arquivo de configuração do tema para os componentes React.
     * Arquivo utilizados pelos desenvolvedores.
   * Entregas
-    * Arquivo do Figma (designers) --- pendente de licença.
+    * Arquivo do Figma (designers) --- depende de compra.
     * Arquivo JSON (devs).
 
 ## Semana: 26 - 30/AGO
@@ -46,3 +46,17 @@
 
 * \[ A FAZER] PILOTO
   * Rodar um projeto a partir dos artefatos disponibilizados.
+
+## Ajuda que Preciso
+
+* 1 Dev para construir o Header em React.
+* Comprar o MUI for Figma.
+* Fomentar a adoção do GitBook pela TIC.
+
+## MVP
+
+* Novo site do Nafto.
+* Nafto para React
+  * Arquivo do Figma configurado para Designers -- depende de compra
+  * Arquivo JSON para desenvolvedores React.
+

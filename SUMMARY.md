@@ -27,6 +27,7 @@
 
 * [React](tecnologias-e-plataformas/react.md)
 * [Angular](tecnologias-e-plataformas/angular.md)
+* [Power BI](tecnologias-e-plataformas/power-bi.md)
 * [ServiceNow](tecnologias-e-plataformas/servicenow.md)
 * [OutSystems](tecnologias-e-plataformas/outsystems.md)
 
