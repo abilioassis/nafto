@@ -20,6 +20,7 @@
 * [Introdução à Acessibilidade](acessibilidade/acessibilidade-comeca-no-design.md)
   * [Como a Acessibilidade Digital é Medida](acessibilidade/introducao-a-acessibilidade/como-a-acessibilidade-digital-e-medida.md)
   * [Acessibilidade no Governo Federal](acessibilidade/introducao-a-acessibilidade/acessibilidade-no-governo-federal.md)
+* [Ferramentas](acessibilidade/ferramentas.md)
 * [Checklist de Acessibilidade](acessibilidade/checklist-de-acessibilidade/README.md)
   * [Regiões de uma Página Web](acessibilidade/checklist-de-acessibilidade/regioes-de-uma-pagina-web.md)
   * [A Importância dos Títulos](acessibilidade/checklist-de-acessibilidade/a-importancia-dos-titulos.md)
