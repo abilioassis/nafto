@@ -8,13 +8,6 @@
 * [Cores](guia-de-identidade-visual/cores.md)
 * [Tipografia](guia-de-identidade-visual/tipografia.md)
 
-## Tecnologias e Plataformas
-
-* [React](tecnologias-e-plataformas/react.md)
-* [Angular](tecnologias-e-plataformas/angular.md)
-* [ServiceNow](tecnologias-e-plataformas/servicenow.md)
-* [OutSystems](tecnologias-e-plataformas/outsystems.md)
-
 ## ACESSIBILIDADE
 
 * [Introdução à Acessibilidade](acessibilidade/acessibilidade-comeca-no-design.md)
@@ -29,6 +22,13 @@
   * [Garanta um Bom Contraste](acessibilidade/garanta-um-bom-contraste.md)
   * [Como Descrever Imagens](acessibilidade/como-descrever-imagens.md)
   * [Crie Formulários Acessíveis](acessibilidade/crie-formularios-acessiveis.md)
+
+## Tecnologias e Plataformas
+
+* [React](tecnologias-e-plataformas/react.md)
+* [Angular](tecnologias-e-plataformas/angular.md)
+* [ServiceNow](tecnologias-e-plataformas/servicenow.md)
+* [OutSystems](tecnologias-e-plataformas/outsystems.md)
 
 ## ----------------------------------
 
