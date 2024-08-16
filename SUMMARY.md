@@ -12,8 +12,8 @@
 
 * [React](tecnologias-e-plataformas/react.md)
 * [Angular](tecnologias-e-plataformas/angular.md)
-* [OutSystems](tecnologias-e-plataformas/outsystems.md)
 * [ServiceNow](tecnologias-e-plataformas/servicenow.md)
+* [OutSystems](tecnologias-e-plataformas/outsystems.md)
 
 ## ACESSIBILIDADE
 
