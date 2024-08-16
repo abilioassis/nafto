@@ -2,6 +2,8 @@
 
 ## Semana: 12 - 16/AGO
 
+* \[CONCLUÍDO] GITBOOK
+  * Criação do site e configuração.
 * \[CONCLUÍDO] IDENTIDADE VISUAL
   * Criação de conteúdo para o site de documentação.
   * Não sei onde o site será hospedado.
