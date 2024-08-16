@@ -55,7 +55,7 @@
 
 ## MVP
 
-* Novo site do Nafto.
+* Novo site do Nafto em GitBook (ou Sharepoint 🙄)
 * Nafto para React
   * Arquivo do Figma configurado para Designers -- depende de compra
   * Arquivo JSON para desenvolvedores React.
