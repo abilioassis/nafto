@@ -22,9 +22,6 @@
 ## Componentes Petrobras
 
 * [Header](componentes-petrobras/header.md)
-* [Icons](componentes-petrobras/icons.md)
-* [Buttons](componentes-petrobras/buttons.md)
-* [Inputs](componentes-petrobras/inputs.md)
 
 ## Tecnologias e Plataformas
 
