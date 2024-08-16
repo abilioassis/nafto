@@ -27,3 +27,7 @@
 * [Garanta um Bom Contraste](acessibilidade/garanta-um-bom-contraste.md)
 * [Como Descrever Imagens](acessibilidade/como-descrever-imagens.md)
 * [Crie Formulários Acessíveis](acessibilidade/crie-formularios-acessiveis.md)
+
+## ----------------------------------
+
+* [Log de Atividades](undefined/log-de-atividades.md)
