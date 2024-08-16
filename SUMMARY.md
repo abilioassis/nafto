@@ -30,4 +30,4 @@
 
 ## ----------------------------------
 
-* [Log de Atividades](undefined/log-de-atividades.md)
+* [Atividades](undefined/atividades.md)

@@ -1,4 +1,4 @@
-# Log de Atividades
+# Atividades
 
 ## Semana: 12 - 16/AGO
 
@@ -35,7 +35,7 @@
   * Transferir o conteúdo para o destino.
   * Somente o conteúdo licenciado (MUI for Figma?).
 
-Semana: 9 - 13/SET
+## Semana: 9 - 13/SET
 
 * \[A FAZER] LANÇAMENTO
   * Comunicar e lançar o novo site.
