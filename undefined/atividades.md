@@ -59,4 +59,5 @@
 * Nafto para React
   * Arquivo do Figma configurado para Designers -- depende de compra
   * Arquivo JSON para desenvolvedores React.
+  * Componente de Header para React.
 
