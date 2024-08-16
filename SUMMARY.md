@@ -8,14 +8,12 @@
 * [Cores](guia-de-identidade-visual/cores.md)
 * [Tipografia](guia-de-identidade-visual/tipografia.md)
 
-## Componentes Petrobras
-
-* [Header](componentes-petrobras/header.md)
-
 ## Tecnologias e Plataformas
 
 * [React](tecnologias-e-plataformas/react.md)
+* [Angular](tecnologias-e-plataformas/angular.md)
 * [OutSystems](tecnologias-e-plataformas/outsystems.md)
+* [ServiceNow](tecnologias-e-plataformas/servicenow.md)
 
 ## ACESSIBILIDADE
 
