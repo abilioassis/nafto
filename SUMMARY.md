@@ -19,17 +19,17 @@
 
 ## ACESSIBILIDADE
 
-* [Introdução à Acessibilidade](acessibilidade/introducao-a-acessibilidade/README.md)
+* [Introdução à Acessibilidade](acessibilidade/acessibilidade-comeca-no-design.md)
   * [Como a Acessibilidade Digital é Medida](acessibilidade/introducao-a-acessibilidade/como-a-acessibilidade-digital-e-medida.md)
   * [Acessibilidade no Governo Federal](acessibilidade/introducao-a-acessibilidade/acessibilidade-no-governo-federal.md)
 * [Checklist de Acessibilidade](acessibilidade/checklist-de-acessibilidade/README.md)
   * [Regiões de uma Página Web](acessibilidade/checklist-de-acessibilidade/regioes-de-uma-pagina-web.md)
   * [A Importância dos Títulos](acessibilidade/checklist-de-acessibilidade/a-importancia-dos-titulos.md)
-  * [Disponibilize as Funcionalidades pelo Teclado](acessibilidade/checklist-de-acessibilidade/disponibilize-as-funcionalidades-pelo-teclado.md)
-  * [Estabeleça uma Ordem de Leitura Lógica e Intuitiva](acessibilidade/checklist-de-acessibilidade/estabeleca-uma-ordem-de-leitura-logica-e-intuitiva.md)
-  * [Garanta um Bom Contraste](acessibilidade/checklist-de-acessibilidade/garanta-um-bom-contraste.md)
-  * [Como Descrever Imagens](acessibilidade/checklist-de-acessibilidade/como-descrever-imagens.md)
-  * [Crie Formulários Acessíveis](acessibilidade/checklist-de-acessibilidade/crie-formularios-acessiveis.md)
+  * [Disponibilize as Funcionalidades pelo Teclado](acessibilidade/disponibilize-as-funcionalidades-pelo-teclado.md)
+  * [Estabeleça uma Ordem de Leitura Lógica e Intuitiva](acessibilidade/estabeleca-uma-ordem-de-leitura-logica-e-intuitiva.md)
+  * [Garanta um Bom Contraste](acessibilidade/garanta-um-bom-contraste.md)
+  * [Como Descrever Imagens](acessibilidade/como-descrever-imagens.md)
+  * [Crie Formulários Acessíveis](acessibilidade/crie-formularios-acessiveis.md)
 
 ## ----------------------------------
 
