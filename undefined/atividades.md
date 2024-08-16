@@ -18,7 +18,7 @@
   * Gerar o arquivo de configuração do tema para os componentes React.
     * Arquivo utilizados pelos desenvolvedores.
   * Entregas
-    * Arquivo do Figma (designers)
+    * Arquivo do Figma (designers) --- pendente de licença.
     * Arquivo JSON (devs).
 
 ## Semana: 26 - 30/AGO
@@ -41,3 +41,8 @@
 
 * \[A FAZER] LANÇAMENTO
   * Comunicar e lançar o novo site.
+
+## Semana: ?
+
+* \[ A FAZER] PILOTO
+  * Rodar um projeto a partir dos artefatos disponibilizados.
