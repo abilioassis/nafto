@@ -8,6 +8,9 @@
   * Criação de conteúdo para o site de documentação.
   * Não sei onde o site será hospedado.
   * Concluída as páginas: Marca, Cores e Tipografia.
+* GITHUB PETROBRAS
+  * \[CONCLUÍDO] Importar repositório do Nafto para o GitHub da Petrobras.
+  * \[BLOQUEADO] Conectar o GitBook ao repositório do Nafto na Petrobras.
 
 ## Semana: 19 - 23/AGO
 
