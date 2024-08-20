@@ -25,6 +25,8 @@
     * Arquivo do Figma (designers) --- depende de compra.
     * Arquivo JSON (devs).
 
+<figure><img src="../.gitbook/assets/nafto.svg" alt=""><figcaption><p>Sonho</p></figcaption></figure>
+
 ## Semana: 26 - 30/AGO
 
 * \[A FAZER] ACESSIBILIDADE
