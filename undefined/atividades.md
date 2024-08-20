@@ -13,6 +13,7 @@
 
 * \[A FAZER] FIGMA
   * Trabalhar na configuração do MUI for Figma (licença pessoal).
+    * \[CONCLUÍDA] Cores configuradas.
   * Exportar somente as instâncias dos componentes configurados.
     * Gerar um arquivo do Figma que poderia ser usado pelos designers.
   * Gerar o arquivo de configuração do tema para os componentes React.
