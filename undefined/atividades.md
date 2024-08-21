@@ -26,7 +26,7 @@
   * \[BLOQUEADO] Adoção do GitBook pela Petrobras.
     * Não foi possível gerar o site do Nafto (usando o GitBook) a partir do repositório do Nafto (GitHub da Petrobras).
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ## Semana: 26 - 30/AGO
 
