@@ -8,9 +8,6 @@
   * Criação de conteúdo para o site de documentação.
   * Não sei onde o site será hospedado.
   * Concluída as páginas: Marca, Cores e Tipografia.
-* GITHUB PETROBRAS
-  * \[CONCLUÍDO] Importar repositório do Nafto para o GitHub da Petrobras.
-  * \[BLOQUEADO] Conectar o GitBook ao repositório do Nafto na Petrobras.
 
 ## Semana: 19 - 23/AGO
 
@@ -24,6 +21,10 @@
   * Entregas
     * Arquivo do Figma (designers) --- depende de compra.
     * Arquivo JSON (devs).
+* GITHUB PETROBRAS
+  * \[CONCLUÍDO] Importar repositório do Nafto (GitHub pessoal) para o GitHub da Petrobras.
+  * \[BLOQUEADO] Adoção do GitBook pela Petrobras.
+    * Não foi possível gerar o site do Nafto (usando o GitBook) a partir do repositório do Nafto (GitHub da Petrobras).
 
 <figure><img src="../.gitbook/assets/nafto.svg" alt=""><figcaption><p>Sonho</p></figcaption></figure>
 
