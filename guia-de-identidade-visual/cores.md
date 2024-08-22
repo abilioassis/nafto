@@ -10,7 +10,7 @@ São as cores presentes no símbolo e no logotipo da marca Petrobras e suas vers
 
 &#x20;É útil ter variantes claras e escuras das cores primárias para compor o tema de cores de uma aplicação.  Ao usar o plugin "Material Palette" no Figma para a cor Verde Petrobras o plugin gera uma paleta de cores completa baseada nessa cor específica.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Verde Petrobras e Variações</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Verde Petrobras e Variações</p></figcaption></figure>
 
 Além das variações claras e escuras o Material Design define cores de destaque (accente colors: a100, a200, a400 e a700) quando possível.
 
