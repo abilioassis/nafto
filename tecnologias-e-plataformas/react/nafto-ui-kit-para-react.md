@@ -8,7 +8,7 @@ description: Dicas essenciais sobre tipografia, cores, espaçamento, layout e co
 
 O Nafto UI Kit para React é um arquivo do Figma disponibilizado pela Petrobras, usado por designers no desenvolvimento de aplicações React. Ele é baseado no Material UI for Figma.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>O Nafto UI Kit para React é baseado no MUI for Figma</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>O Nafto UI Kit para React é utilizado pelos designers e é baseado no MUI for Figma</p></figcaption></figure>
 
 
 
