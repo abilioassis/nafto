@@ -31,7 +31,8 @@
 
 ## Tecnologias e Plataformas
 
-* [React](tecnologias-e-plataformas/react.md)
+* [React](tecnologias-e-plataformas/react/README.md)
+  * [Nafto UI Kit para React](tecnologias-e-plataformas/react/nafto-ui-kit-para-react.md)
 * [Angular](tecnologias-e-plataformas/angular.md)
 * [Power BI](tecnologias-e-plataformas/power-bi.md)
 * [ServiceNow](tecnologias-e-plataformas/servicenow.md)
