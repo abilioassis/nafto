@@ -1,6 +1,8 @@
 # React
 
-Para React a biblioteca recomendada é a Material UI (MUI). É uma implementação baseada nas especificações do Material Design do Google. Essa biblioteca é uma das mais populares para desenvolvedores que utilizam React.
+## Material UI (MUI)
+
+A biblioteca recomendada para o desenvolvimentoé a Material UI (MUI). É uma implementação baseada nas especificações do Material Design do Google. Essa biblioteca é uma das mais populares para desenvolvedores que utilizam React.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Relacionamento entre Material UI e Material Design</p></figcaption></figure>
 
@@ -48,19 +50,17 @@ Grid system, boxes, containers e outros elementos para estruturar a página de f
 
 Além dos componentes, a MUI oferece três principais produtos para atender diferentes necessidades de desenvolvimento.
 
-#### **MUI Core** <a href="#mui-core" id="mui-core"></a>
+### **MUI Core** <a href="#mui-core" id="mui-core"></a>
 
 É a biblioteca principal. É gratuita e inclui todos os componentes básicos do Material UI. É ideal para a maioria dos projetos que precisam de uma interface de usuário moderna e consistente.
 
-#### **MUI X** <a href="#mui-x" id="mui-x"></a>
+### **MUI X** <a href="#mui-x" id="mui-x"></a>
 
 Esta é uma extensão do MUI Core, oferecendo componentes avançados e complexos, como data grids, date pickers e outros elementos que demandam mais funcionalidade e customização. É voltado para aplicações mais sofisticadas que necessitam de recursos adicionais. Não é gratuita.
 
-#### **MUI for Figma** <a href="#mui-for-figma" id="mui-for-figma"></a>
+### **MUI for Figma** <a href="#mui-for-figma" id="mui-for-figma"></a>
 
-Este produto é destinado a designers que utilizam o Figma. Ele fornece uma biblioteca completa de componentes Material UI que podem ser utilizados diretamente no Figma para criar protótipos e designs de alta fidelidade, garantindo que o design e o desenvolvimento estejam perfeitamente alinhados. Existe uma versão gratuita (Community Edition) e uma versão paga.
-
-A versão gratuita contém apenas instâncias dos componentes do Material UI, não os componentes de origem. Serve para montar telas rapidamente, mas para personalizações como tipografia, cores ou modo escuro, é necessária a versão completa.
+Este produto é destinado a designers que utilizam o Figma. Ele fornece uma biblioteca completa de componentes Material UI que podem ser utilizados diretamente no Figma para criar protótipos e designs de alta fidelidade, garantindo que o design e o desenvolvimento estejam perfeitamente alinhados. Existe uma versão gratuita (Community Edition) e uma versão paga. A versão gratuita contém apenas as instâncias dos componentes do Material UI, não os componentes de origem. Serve para montar telas rapidamente, mas para personalizações como tipografia, cores ou modo escuro, é necessária a versão paga.
 
 ## Para Saber Mais <a href="#para-saber-mais" id="para-saber-mais"></a>
 
