@@ -1,16 +1,14 @@
 ---
-description: >-
-  React é uma biblioteca JavaScript para criar interfaces de usuário dinâmicas e
-  modernas.
+description: React é a biblioteca mais popular para desenvolvimento front-end
 ---
 
 # React
 
-React é a biblioteca mais popular para desenvolvimento front-end, permitindo a construção de interfaces através do conceito de composição de componentes. Isso facilita a criação de UIs complexas, dinâmicas e reutilizáveis.
+React é uma biblioteca JavaScript desenvolvida pelo Facebook (hoje Meta) para a criação de interfaces de usuário dinâmicas e modernas. Ela se baseia no conceito de composição de componentes, facilitando o desenvolvimento de UIs complexas, dinâmicas e reutilizáveis.
 
 ## Material UI (MUI)
 
-MUI é uma biblioteca de componentes para React que oferece um conjunto robusto de elementos de UI prontos para uso, permitindo o desenvolvimento rápido e consistente de interfaces. É a biblioteca recomenda para o desenvolvimento de aplicações React. O MUI é baseado nas especificações do Material Design do Google.
+Construída sobre a fundação do React, a biblioteca MUI oferece uma gama extensa de componentes de UI prontos para uso, que facilitam o desenvolvimento de interfaces ricas e consistentes. É a biblioteca recomenda para o desenvolvimento de aplicações React. O MUI é baseado nas especificações do Material Design do Google.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Relacionamento entre Material UI e Material Design</p></figcaption></figure>
 
