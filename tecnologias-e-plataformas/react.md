@@ -12,6 +12,22 @@ Construída sobre a fundação do React, a biblioteca MUI oferece uma gama exten
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Relacionamento entre Material UI e Material Design</p></figcaption></figure>
 
+## Produtos Oferecidos pela MUI <a href="#produtos-oferecidos-pela-mui" id="produtos-oferecidos-pela-mui"></a>
+
+A MUI oferece três principais produtos para atender diferentes necessidades de desenvolvimento.
+
+### **MUI Core** <a href="#mui-core" id="mui-core"></a>
+
+É a biblioteca principal. É gratuita e inclui todos os componentes básicos do Material UI. É ideal para a maioria dos projetos que precisam de uma interface de usuário moderna e consistente.
+
+### **MUI X** <a href="#mui-x" id="mui-x"></a>
+
+Esta é uma extensão do MUI Core, oferecendo componentes avançados e complexos, como data grids, date pickers e outros elementos que demandam mais funcionalidade e customização. É voltado para aplicações mais sofisticadas que necessitam de recursos adicionais. Não é gratuita.
+
+### **MUI for Figma** <a href="#mui-for-figma" id="mui-for-figma"></a>
+
+Este produto é destinado a designers que utilizam o Figma. Ele fornece uma biblioteca completa de componentes Material UI que podem ser utilizados diretamente no Figma para criar protótipos e designs de alta fidelidade, garantindo que o design e o desenvolvimento estejam perfeitamente alinhados. Existe uma versão gratuita (Community Edition) e uma versão paga. A versão gratuita contém apenas as instâncias dos componentes do Material UI, não os componentes de origem. Serve para montar telas rapidamente, mas para personalizações como tipografia, cores ou modo escuro, é necessária a versão paga.
+
 ## Componentes do Material UI <a href="#componentes-do-material-ui" id="componentes-do-material-ui"></a>
 
 Material UI oferece uma extensa variedade de componentes que ajudam a construir aplicações web completas e consistentes. Aqui estão algumas das principais categorias de componentes disponíveis.
@@ -52,21 +68,7 @@ Grid system, boxes, containers e outros elementos para estruturar a página de f
 
 <figure><img src="../.gitbook/assets/mui-layout.png" alt=""><figcaption><p>Visão Geral dos Componentes de Layout. Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a></p></figcaption></figure>
 
-## Produtos Oferecidos pela MUI <a href="#produtos-oferecidos-pela-mui" id="produtos-oferecidos-pela-mui"></a>
-
-Além dos componentes, a MUI oferece três principais produtos para atender diferentes necessidades de desenvolvimento.
-
-### **MUI Core** <a href="#mui-core" id="mui-core"></a>
-
-É a biblioteca principal. É gratuita e inclui todos os componentes básicos do Material UI. É ideal para a maioria dos projetos que precisam de uma interface de usuário moderna e consistente.
-
-### **MUI X** <a href="#mui-x" id="mui-x"></a>
-
-Esta é uma extensão do MUI Core, oferecendo componentes avançados e complexos, como data grids, date pickers e outros elementos que demandam mais funcionalidade e customização. É voltado para aplicações mais sofisticadas que necessitam de recursos adicionais. Não é gratuita.
-
-### **MUI for Figma** <a href="#mui-for-figma" id="mui-for-figma"></a>
-
-Este produto é destinado a designers que utilizam o Figma. Ele fornece uma biblioteca completa de componentes Material UI que podem ser utilizados diretamente no Figma para criar protótipos e designs de alta fidelidade, garantindo que o design e o desenvolvimento estejam perfeitamente alinhados. Existe uma versão gratuita (Community Edition) e uma versão paga. A versão gratuita contém apenas as instâncias dos componentes do Material UI, não os componentes de origem. Serve para montar telas rapidamente, mas para personalizações como tipografia, cores ou modo escuro, é necessária a versão paga.
+## &#x20;<a href="#produtos-oferecidos-pela-mui" id="produtos-oferecidos-pela-mui"></a>
 
 ## Para Saber Mais <a href="#para-saber-mais" id="para-saber-mais"></a>
 
