@@ -18,31 +18,33 @@ Campos de texto, checkboxes, radio buttons, selects, sliders e outros elementos 
 
 Tabelas, listas, avatares, badges, tooltips e outros componentes para exibir informações de maneira clara e acessível.
 
+<figure><img src="../.gitbook/assets/mui-data-display.png" alt=""><figcaption><p>Visão Geral dos Componentes de Exibição de Dados (Data Display). Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
 
-
-#### **Componentes de Feedback** <a href="#componentes-de-feedback" id="componentes-de-feedback"></a>
+### **Componentes de Feedback** <a href="#componentes-de-feedback" id="componentes-de-feedback"></a>
 
 Diálogos, snackbars, progress indicators e outros componentes para fornecer feedback ao usuário.
 
-![](https://www.figmamaterialui.com.br/\~gitbook/image?url=https%3A%2F%2F46938355-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fr2PfAHtMcmSBZxA54LPi%252Fuploads%252FvnGRSdJEpbKY6PvurACs%252Ffeedback-overview.png%3Falt%3Dmedia%26token%3D17a38dda-9ce1-46d2-8eac-d9e45bceb7e4\&width=768\&dpr=4\&quality=100\&sign=9c6b0b87\&sv=1)Visão Geral dos Componentes de Feedback. Imagem obtida no [Material UI Community Edition](https://www.figma.com/community/file/912837788133317724).
+<figure><img src="../.gitbook/assets/mui-feedback.png" alt=""><figcaption><p>Visão Geral dos Componentes de Feedback. Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
 
-#### **Componentes de Superfície (Surface)** <a href="#componentes-de-superficie-surface" id="componentes-de-superficie-surface"></a>
+### **Componentes de Superfície (Surface)** <a href="#componentes-de-superficie-surface" id="componentes-de-superficie-surface"></a>
 
 Cards, accordions, paper e outros elementos para criar seções distintas e destacar conteúdo.
 
-![](https://www.figmamaterialui.com.br/\~gitbook/image?url=https%3A%2F%2F46938355-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fr2PfAHtMcmSBZxA54LPi%252Fuploads%252FPTxsTSULPJKPMRoyowZK%252Fsurface-overview.png%3Falt%3Dmedia%26token%3D6e143495-d2c5-4746-80a7-e31a0c26d03a\&width=768\&dpr=4\&quality=100\&sign=9b5718dc\&sv=1)Visão Geral dos Componentes de Superfície (Surface). Imagem obtida no [Material UI Community Edition](https://www.figma.com/community/file/912837788133317724).
+<figure><img src="../.gitbook/assets/mui-surface.png" alt=""><figcaption><p>Visão Geral dos Componentes de Superfície (Surface). Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
 
-#### **Componentes de Navegação (Navigation)** <a href="#componentes-de-navegacao-navigation" id="componentes-de-navegacao-navigation"></a>
+### **Componentes de Navegação (Navigation)** <a href="#componentes-de-navegacao-navigation" id="componentes-de-navegacao-navigation"></a>
 
 Menus, abas, breadcrumbs, pagination e outros componentes para facilitar a navegação do usuário.
 
-![](https://www.figmamaterialui.com.br/\~gitbook/image?url=https%3A%2F%2F46938355-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fr2PfAHtMcmSBZxA54LPi%252Fuploads%252FSHBQNjEuKHCt7bbdG9P1%252Fnavigation-overview.png%3Falt%3Dmedia%26token%3Dda79f6e4-97c1-405e-b899-ea33ffc8ee0c\&width=768\&dpr=4\&quality=100\&sign=9ccdee14\&sv=1)Visão Geral dos Componentes de Navegação (Navigation). Imagem obtida no [Material UI Community Edition](https://www.figma.com/community/file/912837788133317724).
+<figure><img src="../.gitbook/assets/mui-navigation.png" alt=""><figcaption><p>Visão Geral dos Componentes de Navegação (Navigation). Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
 
-#### **Componentes de Layout** <a href="#componentes-de-layout" id="componentes-de-layout"></a>
+### **Componentes de Layout** <a href="#componentes-de-layout" id="componentes-de-layout"></a>
 
 Grid system, boxes, containers e outros elementos para estruturar a página de forma responsiva e organizada.
 
-### Produtos Oferecidos pela MUI <a href="#produtos-oferecidos-pela-mui" id="produtos-oferecidos-pela-mui"></a>
+<figure><img src="../.gitbook/assets/mui-layout.png" alt=""><figcaption><p>Visão Geral dos Componentes de Layout. Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a></p></figcaption></figure>
+
+## Produtos Oferecidos pela MUI <a href="#produtos-oferecidos-pela-mui" id="produtos-oferecidos-pela-mui"></a>
 
 Além dos componentes, a MUI oferece três principais produtos para atender diferentes necessidades de desenvolvimento.
 
@@ -60,7 +62,7 @@ Este produto é destinado a designers que utilizam o Figma. Ele fornece uma bibl
 
 A versão gratuita contém apenas instâncias dos componentes do Material UI, não os componentes de origem. Serve para montar telas rapidamente, mas para personalizações como tipografia, cores ou modo escuro, é necessária a versão completa.
 
-### Para Saber Mais <a href="#para-saber-mais" id="para-saber-mais"></a>
+## Para Saber Mais <a href="#para-saber-mais" id="para-saber-mais"></a>
 
 * [MUI](https://mui.com/)
 * [Material Design](https://m3.material.io/)
