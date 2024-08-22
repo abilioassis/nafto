@@ -14,7 +14,7 @@ O Nafto UI Kit para React é um arquivo do Figma disponibilizado pela Petrobras,
 
 ## Tipografia
 
-Os estilos de texto no Material UI utilizam a fonte **Roboto**, seguindo as definições tipográficas do **Material Design 2**. Esses estilos abrangem títulos (**h1..h6**), corpo de texto (**body1 e body2**), subtítulos (**subtitle1 e subtitle2**), linha superior (**overline**) e legenda (**caption**), além de estilos específicos para componentes como botões, DataPickers, menus e tabelas.
+Os estilos de texto no Nofto UI Kit para React utilizam a fonte **Petrobras Sans**, seguindo as definições tipográficas do **Manual do Sistema de Identidade Visual da Petrobras**. Esses estilos abrangem títulos (**h1..h6**), corpo de texto (**body1 e body2**), subtítulos (**subtitle1 e subtitle2**), linha superior (**overline**) e legenda (**caption**), além de estilos específicos para componentes como botões, DataPickers, menus e tabelas.
 
 ### Estilos de Texto e HTML Semântico <a href="#estilos-de-texto-e-html-semantico" id="estilos-de-texto-e-html-semantico"></a>
 
