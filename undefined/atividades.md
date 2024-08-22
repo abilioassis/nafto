@@ -11,9 +11,24 @@
 
 ## Semana: 19 - 23/AGO
 
-* \[A FAZER] FIGMA
+* \[CONCLUÍDA] FIGMA
   * Trabalhar na configuração do MUI for Figma (licença pessoal).
     * \[CONCLUÍDA] Cores configuradas.
+    * \[CONCLUÍDA] Tipografia configuradas.
+* \[CONCLUÍDA] ARQUITETURA
+  * Atualizado o diagrama de arquitetura.
+* \[A FAZER] Nafto UI Kit para React
+  * Criar telas de exemplo e ganhar experiência com o kit.
+* GITHUB PETROBRAS
+  * \[CONCLUÍDO] Importar repositório do Nafto (GitHub pessoal) para o GitHub da Petrobras.
+  * \[BLOQUEADO] Adoção do GitBook pela Petrobras.
+    * Não foi possível gerar o site do Nafto (usando o GitBook) a partir do repositório do Nafto (GitHub da Petrobras).
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Diagrama de Arquitetura</p></figcaption></figure>
+
+## Semana: 26 - 30/AGO
+
+* \[A FAZER] ACESSIBILIDADE
   * Exportar somente as instâncias dos componentes configurados.
     * Gerar um arquivo do Figma que poderia ser usado pelos designers.
   * Gerar o arquivo de configuração do tema para os componentes React.
@@ -21,16 +36,6 @@
   * Entregas
     * Arquivo do Figma (designers) --- depende de compra.
     * Arquivo JSON (devs).
-* GITHUB PETROBRAS
-  * \[CONCLUÍDO] Importar repositório do Nafto (GitHub pessoal) para o GitHub da Petrobras.
-  * \[BLOQUEADO] Adoção do GitBook pela Petrobras.
-    * Não foi possível gerar o site do Nafto (usando o GitBook) a partir do repositório do Nafto (GitHub da Petrobras).
-
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
-
-## Semana: 26 - 30/AGO
-
-* \[A FAZER] ACESSIBILIDADE
   * Criar conteúdo de Acessibilidade.
 
 ## Semana: 2 - 6/SET
