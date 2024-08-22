@@ -18,7 +18,8 @@
 * \[CONCLUÍDA] ARQUITETURA
   * Atualizado o diagrama de arquitetura.
 * \[A FAZER] Nafto UI Kit para React
-  * Criar telas de exemplo e ganhar experiência com o kit.
+  * Criar telas de exemplo.
+  * Documentar aprendizado.
 * GITHUB PETROBRAS
   * \[CONCLUÍDO] Importar repositório do Nafto (GitHub pessoal) para o GitHub da Petrobras.
   * \[BLOQUEADO] Adoção do GitBook pela Petrobras.
