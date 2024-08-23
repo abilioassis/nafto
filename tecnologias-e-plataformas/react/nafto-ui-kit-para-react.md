@@ -53,11 +53,9 @@ No Figma, os estilos de texto de h1 a h6 ajudam os designers a criar uma hierarq
 | body1     | `<p>`  |
 | body2     | `<p>`  |
 
-
-
-
-
 ## Para Saber Mais <a href="#para-saber-mais" id="para-saber-mais"></a>
 
 * [A escala tipográfica no Material Design 2](https://m2.material.io/design/typography/the-type-system.html#type-scale)
 * [O componente Typography no Material UI](https://mui.com/material-ui/react-typography/)
+* [Tutorial do W3C sobre Headings](https://www.w3.org/WAI/tutorials/page-structure/headings/)
+
