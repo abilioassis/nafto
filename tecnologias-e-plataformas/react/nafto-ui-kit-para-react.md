@@ -1,16 +1,32 @@
 ---
-description: Dicas essenciais sobre tipografia, cores, espaçamento, layout e containers.
+description: É a referência para os designers projetarem aplicações React.
 ---
 
 # Nafto UI Kit para React
 
 ## Introdução
 
-O Nafto UI Kit para React é um arquivo do Figma disponibilizado pela Petrobras, usado por designers no desenvolvimento de aplicações React. Ele é baseado no Material UI for Figma.
+O Nafto UI Kit para React é um arquivo do Figma usado por designers no desenvolvimento de aplicações React. Ele é baseado no Material UI for Figma.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>O Nafto UI Kit para React é utilizado pelos designers e é baseado no MUI for Figma</p></figcaption></figure>
 
+As customizações realizadas no MUI for Figma incluem:
 
+* Cores.
+* Tipografia.
+* Criação de:
+  * Componentes exclusivos.
+  * Modelos de tela.
+
+## Cores
+
+Uma nova coleção foi criada sob o nome "nafto/cores", onde estão definidas as [cores da marca Petrobras](../../guia-de-identidade-visual/cores.md).
+
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Coleção "nafto/cores" no arquivo do Figma Nafto UI Kit para React</p></figcaption></figure>
+
+Outra alteração realizada foi na coleção "palette", onde as cores dos grupos "primary", "primary/states", "secondary" e "secondary/\_states" foram modificadas para refletirem as [cores da Marca Petrobras](../../guia-de-identidade-visual/cores.md).
+
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Coleção "palette" no arquivo do Figma Nafto UI Kit para React</p></figcaption></figure>
 
 ## Tipografia
 
