@@ -30,19 +30,13 @@ Outra alteração realizada foi na coleção "palette", onde as cores dos grupos
 
 ## Tipografia
 
-Os estilos de texto no Nofto UI Kit para React utilizam a fonte **Petrobras Sans**. Esses estilos abrangem títulos (**h1..h6**), corpo de texto (**body1 e body2**), subtítulos (**subtitle1 e subtitle2**), linha superior (**overline**) e legenda (**caption**), além de estilos específicos para componentes como botões, DataPickers, menus e tabelas.
+Os estilos de texto foram alterados da fonte Roboto para **Petrobras Sans**. Esses estilos abrangem títulos (**h1..h6**), corpo de texto (**body1 e body2**), subtítulos (**subtitle1 e subtitle2**), linha superior (**overline**) e legenda (**caption**), além de estilos específicos para componentes como botões, DataPickers, menus e tabelas.
 
 <figure><img src="../../.gitbook/assets/mui-typography.png" alt=""><figcaption><p>Estilos de texto com a fonte Petrobras Sans no no arquivo do Figma Nafto UI Kit para React</p></figcaption></figure>
 
 ### Estilos de Texto e HTML Semântico <a href="#estilos-de-texto-e-html-semantico" id="estilos-de-texto-e-html-semantico"></a>
 
-Os estilos de texto h1 a h6 podem gerar confusão, pois no HTML5 esses termos têm significados específicos. No Figma, os designers usam esses títulos principalmente para criar uma hierarquia visual, não necessariamente seguindo a mesma hierarquia semântica do HTML.
-
-No HTML, o h1 é para o título principal da página, seguido por h2 para subseções importantes, e assim por diante. Isso facilita a navegação e compreensão para pessoas com deficiência, conforme recomendações do Comitê de Acessibilidade do W3C. No Figma, o designer pode usar o estilo h1 para destacar visualmente uma seção importante, mas não necessariamente o título principal.
-
-Por exemplo, ao projetar um site de notícias no Figma, o designer pode usar h1 para o nome do site no cabeçalho, h2 para títulos principais das notícias, h3 para subtítulos, e assim por diante. Visualmente, isso cria uma estrutura clara, mas no HTML, h1 deveria ser o título principal da página, como "Página Inicial" ou "Notícias".
-
-Quando houver discrepância entre os estilos do Figma e a semântica HTML, o designer pode adicionar notas ao design. Por exemplo, se quiser que um texto tenha o estilo h3 no Figma, mas seja renderizado como `<h4>` no HTML, adicione uma nota explicando essa especificação. Isso garante que os desenvolvedores compreendam a intenção do design e apliquem os estilos corretamente.
+No Figma, os estilos de texto de h1 a h6 ajudam os designers a criar uma hierarquia visual, mas eles não seguem automaticamente a hierarquia semântica do HTML. Por exemplo, um designer pode usar h1 para destacar o nome de um site, enquanto no HTML, h1 deve representar o título principal da página. Essa prática pode confundir tanto os desenvolvedores quanto as tecnologias assistivas, prejudicando a acessibilidade. Para resolver isso, os designers devem anotar no Figma quando um estilo visual deve corresponder a um diferente nível de cabeçalho no HTML, assegurando que a intenção visual alinhe-se com a semântica correta.
 
 ### Mapeamento de Estilos de Texto para HTML5 <a href="#mapeamento-de-estilos-de-texto-para-html5" id="mapeamento-de-estilos-de-texto-para-html5"></a>
 
