@@ -32,6 +32,8 @@ Outra alteração realizada foi na coleção "palette", onde as cores dos grupos
 
 Os estilos de texto no Nofto UI Kit para React utilizam a fonte **Petrobras Sans**. Esses estilos abrangem títulos (**h1..h6**), corpo de texto (**body1 e body2**), subtítulos (**subtitle1 e subtitle2**), linha superior (**overline**) e legenda (**caption**), além de estilos específicos para componentes como botões, DataPickers, menus e tabelas.
 
+<figure><img src="../../.gitbook/assets/mui-typography.png" alt=""><figcaption><p>Estilos de texto com a fonte Petrobras Sans no no arquivo do Figma Nafto UI Kit para React</p></figcaption></figure>
+
 ### Estilos de Texto e HTML Semântico <a href="#estilos-de-texto-e-html-semantico" id="estilos-de-texto-e-html-semantico"></a>
 
 Os estilos de texto h1 a h6 podem gerar confusão, pois no HTML5 esses termos têm significados específicos. No Figma, os designers usam esses títulos principalmente para criar uma hierarquia visual, não necessariamente seguindo a mesma hierarquia semântica do HTML.
