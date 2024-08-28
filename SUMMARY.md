@@ -16,6 +16,7 @@
 * [Layouts de Rodapé](galeria-de-layouts/layouts-de-rodape.md)
 * [Layouts de Dashboards](galeria-de-layouts/layouts-de-dashboards.md)
 * [Layouts de Modal Pop-up](galeria-de-layouts/layouts-de-modal-pop-up.md)
+* [Layouts de Aplicações GIS](galeria-de-layouts/layouts-de-aplicacoes-gis.md)
 
 ## ACESSIBILIDADE
 
