@@ -30,7 +30,7 @@ Conteúdo centralizado com navegação vertical ao lado, ideal para foco em elem
 
 Espaço de conteúdo delimitado com uma barra de navegação horizontal extensa, oferecendo visibilidade clara das seções disponíveis.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Navegação lateral em múltiplas camadas**
 
