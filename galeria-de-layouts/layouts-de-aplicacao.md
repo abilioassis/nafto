@@ -8,27 +8,39 @@ description: >-
 
 truturas visuais essenciais que ajudam a organizar o conteúdo e as funções de um aplicativo de forma intuitiva e acessível. Eles definem como os elementos de navegação, conteúdo e funcionalidades adicionais são dispostos na interface.
 
-1. **Navegação vertical sobrepondo navegação horizontal**: Combinação de menus verticais e horizontais, otimizando espaço e melhorando a acessibilidade das funcionalidades principais.
+## **Navegação vertical sobrepondo navegação horizontal**
+
+Combinação de menus verticais e horizontais, otimizando espaço e melhorando a acessibilidade das funcionalidades principais.
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-2. **Navegação horizontal sobrepondo navegação vertical**: Prioriza a navegação horizontal no topo, com opções verticais complementares, facilitando o acesso direto a categorias maiores.
+## **Navegação horizontal sobrepondo navegação vertical**
+
+&#x20;Prioriza a navegação horizontal no topo, com opções verticais complementares, facilitando o acesso direto a categorias maiores.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-3. **Área de conteúdo limitada com navegação vertical**: Conteúdo centralizado com navegação vertical ao lado, ideal para foco em elementos específicos sem distrações.
+## **Área de conteúdo limitada com navegação vertical**
+
+Conteúdo centralizado com navegação vertical ao lado, ideal para foco em elementos específicos sem distrações.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-4. **Área de conteúdo limitada com navegação horizontal de largura total**: Espaço de conteúdo delimitado com uma barra de navegação horizontal extensa, oferecendo visibilidade clara das seções disponíveis.
+## **Área de conteúdo limitada com navegação horizontal de largura total**
+
+Espaço de conteúdo delimitado com uma barra de navegação horizontal extensa, oferecendo visibilidade clara das seções disponíveis.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-5. **Navegação lateral em múltiplas camadas**: Permite uma organização hierárquica profunda com vários níveis de navegação lateral, ideal para sistemas complexos com muitas seções.
+## **Navegação lateral em múltiplas camadas**
+
+Permite uma organização hierárquica profunda com vários níveis de navegação lateral, ideal para sistemas complexos com muitas seções.
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-6. **Layout de cartões**: Organiza informações em blocos ou "cartões", permitindo uma interface limpa e modular, ideal para dashboards ou resumos.
+## **Layout de cartões**
+
+Organiza informações em blocos ou "cartões", permitindo uma interface limpa e modular, ideal para dashboards ou resumos.
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
