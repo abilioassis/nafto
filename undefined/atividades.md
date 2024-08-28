@@ -30,6 +30,7 @@
 ## Semana: 26 - 30/AGO
 
 * GALERIA DE LAYOUTS
+  * \[CONCLUÍDO] Visão geral
   * \[CONCLUÍDO] Layouts de aplicação
 * \[A FAZER] ACESSIBILIDADE
   * Exportar somente as instâncias dos componentes configurados.
