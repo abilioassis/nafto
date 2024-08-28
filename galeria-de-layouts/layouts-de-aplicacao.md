@@ -6,7 +6,7 @@ description: >-
 
 # Layouts de Aplicação
 
-as visuais essenciais que ajudam a organizar o conteúdo e as funções de um aplicativo de forma intuitiva e acessível. Eles definem como os elementos de navegação, conteúdo e funcionalidades adicionais são dispostos na interface.
+São estruturas visuais essenciais que ajudam a organizar o conteúdo e as funções de um aplicativo de forma intuitiva e acessível. Eles definem como os elementos de navegação, conteúdo e funcionalidades adicionais são dispostos na interface.
 
 ## **Navegação vertical sobrepondo navegação horizontal**
 
