@@ -12,3 +12,7 @@ Layouts disponibilizados:
 
 * [De aplicação](layouts-de-aplicacao.md).
 * ...
+
+## Para Saber Mais
+
+* [Refactoring UI](https://www.refactoringui.com/)
