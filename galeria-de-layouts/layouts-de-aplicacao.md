@@ -1,14 +1,10 @@
 ---
 description: >-
-  Explore layouts de baixa fidelidade e independentes de tecnologia para a
-  criações de aplicações corporativas.
+  Esses layouts podem ser usadas como inspiração ou ponto de partida para o
+  desenho de aplicações.
 ---
 
-# Visão Geral
-
-Esses layouts podem ser usadas como inspiração ou ponto de partida para o desenho de aplicações:
-
-## Layouts de Aplicação
+# Layouts de Aplicação
 
 São estruturas visuais essenciais que ajudam a organizar o conteúdo e as funções de um aplicativo de forma intuitiva e acessível. Eles definem como os elementos de navegação, conteúdo e funcionalidades adicionais são dispostos na interface.
 
