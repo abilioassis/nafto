@@ -6,7 +6,7 @@ description: >-
 
 # Layouts de Aplicação
 
-São estruturas visuais essenciais que ajudam a organizar o conteúdo e as funções de um aplicativo de forma intuitiva e acessível. Eles definem como os elementos de navegação, conteúdo e funcionalidades adicionais são dispostos na interface.
+truturas visuais essenciais que ajudam a organizar o conteúdo e as funções de um aplicativo de forma intuitiva e acessível. Eles definem como os elementos de navegação, conteúdo e funcionalidades adicionais são dispostos na interface.
 
 1. **Navegação vertical sobrepondo navegação horizontal**: Combinação de menus verticais e horizontais, otimizando espaço e melhorando a acessibilidade das funcionalidades principais.
 
@@ -23,6 +23,10 @@ São estruturas visuais essenciais que ajudam a organizar o conteúdo e as funç
 4. **Área de conteúdo limitada com navegação horizontal de largura total**: Espaço de conteúdo delimitado com uma barra de navegação horizontal extensa, oferecendo visibilidade clara das seções disponíveis.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+5. **Navegação lateral em múltiplas camadas**: Permite uma organização hierárquica profunda com vários níveis de navegação lateral, ideal para sistemas complexos com muitas seções.
+
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 5. **Layout de cartões**: Organiza informações em blocos ou "cartões", permitindo uma interface limpa e modular, ideal para dashboards ou resumos.
 6. **Apenas barra lateral**: Uma barra lateral contém todas as opções de navegação e ferramentas, maximizando o espaço de conteúdo principal.
