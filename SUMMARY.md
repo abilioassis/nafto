@@ -14,6 +14,7 @@
 * [Layouts de Aplicação](galeria-de-layouts/layouts-de-aplicacao.md)
 * [Layouts de Cabeçalho](galeria-de-layouts/layouts-de-cabecalho.md)
 * [Layouts de Rodapé](galeria-de-layouts/layouts-de-rodape.md)
+* [Layouts de Dashboards](galeria-de-layouts/layouts-de-dashboards.md)
 
 ## ACESSIBILIDADE
 
