@@ -8,6 +8,10 @@
 * [Cores](guia-de-identidade-visual/cores.md)
 * [Tipografia](guia-de-identidade-visual/tipografia.md)
 
+## Galeria de Layouts
+
+* [Visão Geral](galeria-de-layouts/visao-geral.md)
+
 ## ACESSIBILIDADE
 
 * [Introdução à Acessibilidade](acessibilidade/acessibilidade-comeca-no-design.md)
