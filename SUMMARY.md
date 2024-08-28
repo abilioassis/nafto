@@ -10,6 +10,7 @@
 
 ## Galeria de Layouts
 
+* [Visão Geral](galeria-de-layouts/visao-geral.md)
 * [Layouts de Aplicação](galeria-de-layouts/layouts-de-aplicacao.md)
 
 ## ACESSIBILIDADE
