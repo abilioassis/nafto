@@ -13,6 +13,7 @@
 * [Visão Geral](galeria-de-layouts/visao-geral.md)
 * [Layouts de Header](galeria-de-layouts/layouts-de-header.md)
 * [Layouts de Footer](galeria-de-layouts/layouts-de-footer.md)
+* [Layout de Forms](galeria-de-layouts/layout-de-forms.md)
 * [Layouts de Aplicação](galeria-de-layouts/layouts-de-aplicacao.md)
 * [Layouts de Dashboards](galeria-de-layouts/layouts-de-dashboards.md)
 * [Layouts de Modal Pop-up](galeria-de-layouts/layouts-de-modal-pop-up.md)
