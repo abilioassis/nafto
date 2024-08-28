@@ -10,5 +10,5 @@ Aqui, você encontrará exemplos de telas de baixa fidelidade, cuidadosamente se
 
 Layouts disponibilizados:
 
-* De aplicação.
-*
+* [De aplicação](layouts-de-aplicacao.md).
+* ...
