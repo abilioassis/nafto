@@ -11,12 +11,11 @@
 ## Galeria de Layouts
 
 * [Visão Geral](galeria-de-layouts/visao-geral.md)
+* [Layouts de Header](galeria-de-layouts/layouts-de-header.md)
+* [Layouts de Footer](galeria-de-layouts/layouts-de-footer.md)
 * [Layouts de Aplicação](galeria-de-layouts/layouts-de-aplicacao.md)
-* [Layouts de Cabeçalho](galeria-de-layouts/layouts-de-cabecalho.md)
-* [Layouts de Rodapé](galeria-de-layouts/layouts-de-rodape.md)
 * [Layouts de Dashboards](galeria-de-layouts/layouts-de-dashboards.md)
 * [Layouts de Modal Pop-up](galeria-de-layouts/layouts-de-modal-pop-up.md)
-* [Layouts de Aplicações GIS](galeria-de-layouts/layouts-de-aplicacoes-gis.md)
 
 ## ACESSIBILIDADE
 
