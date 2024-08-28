@@ -1,7 +1,7 @@
 ---
 description: >-
-  Explore layouts de baixa fidelidade e independentes de plataforma, inspirando
-  designs eficazes e adaptáveis para aplicações corporativas.
+  Explore layouts independentes de plataforma, inspirando designs eficazes e
+  adaptáveis para aplicações corporativas.
 ---
 
 # Visão Geral
