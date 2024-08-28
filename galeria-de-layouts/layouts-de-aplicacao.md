@@ -62,4 +62,3 @@ Divide a tela em três áreas, permitindo uma distribuição equilibrada de cont
 
 Adiciona uma coluna à direita para informações ou ações secundárias, complementando o conteúdo principal sem sobrecarregar.
 
-##
