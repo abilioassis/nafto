@@ -28,14 +28,14 @@ truturas visuais essenciais que ajudam a organizar o conteúdo e as funções de
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-6. &#x20;  **Layout de cartões**: Organiza informações em blocos ou "cartões", permitindo uma interface limpa e modular, ideal para dashboards ou resumos.
+6. **Layout de cartões**: Organiza informações em blocos ou "cartões", permitindo uma interface limpa e modular, ideal para dashboards ou resumos.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-7. **Apenas barra lateral**: Uma barra lateral contém todas as opções de navegação e ferramentas, maximizando o espaço de conteúdo principal.
-8. **Apenas navegação por ícones na barra lateral**: Navegação minimalista com ícones, economizando espaço enquanto oferece acesso rápido às funções principais através de uma barra lateral.
-9. **Layout de três colunas**: Divide a tela em três áreas, permitindo uma distribuição equilibrada de conteúdo, navegação e funcionalidades adicionais.
-10. **Coluna secundária à direita**: Adiciona uma coluna à direita para informações ou ações secundárias, complementando o conteúdo principal sem sobrecarregar.
+6. **Apenas barra lateral**: Uma barra lateral contém todas as opções de navegação e ferramentas, maximizando o espaço de conteúdo principal.
+7. **Apenas navegação por ícones na barra lateral**: Navegação minimalista com ícones, economizando espaço enquanto oferece acesso rápido às funções principais através de uma barra lateral.
+8. **Layout de três colunas**: Divide a tela em três áreas, permitindo uma distribuição equilibrada de conteúdo, navegação e funcionalidades adicionais.
+9. **Coluna secundária à direita**: Adiciona uma coluna à direita para informações ou ações secundárias, complementando o conteúdo principal sem sobrecarregar.
 
 ## Para Saber Mais
 
