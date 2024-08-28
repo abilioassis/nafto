@@ -30,7 +30,7 @@
 ## Semana: 26 - 30/AGO
 
 * GALERIA DE LAYOUTS
-  *
+  * \[CONCLUÍDO] Layouts de aplicação
 * \[A FAZER] ACESSIBILIDADE
   * Exportar somente as instâncias dos componentes configurados.
     * Gerar um arquivo do Figma que poderia ser usado pelos designers.
