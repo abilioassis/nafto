@@ -29,9 +29,14 @@
 
 ## Semana: 26 - 30/AGO
 
-* GALERIA DE LAYOUTS
+* COLEÇÃO DE INTERFACES
   * \[CONCLUÍDO] Visão geral
   * \[CONCLUÍDO] Layouts de aplicação
+* GOVERNANÇA E FEEDBACK
+  * Foi incluída essa seção com subpáginas específicas.
+
+## Semana: 2 - 6/SET
+
 * \[A FAZER] ACESSIBILIDADE
   * Exportar somente as instâncias dos componentes configurados.
     * Gerar um arquivo do Figma que poderia ser usado pelos designers.
@@ -41,9 +46,6 @@
     * Arquivo do Figma (designers) --- depende de compra.
     * Arquivo JSON (devs).
   * Criar conteúdo de Acessibilidade.
-
-## Semana: 2 - 6/SET
-
 * \[A FAZER] COMPRAS
   * Preparar documento de compras dos softwares.
     * Figma

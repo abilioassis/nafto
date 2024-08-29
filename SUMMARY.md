@@ -55,8 +55,8 @@
 ## Governança e Feedback
 
 * [Métricas do Nafto](governanca-e-feedback/metricas-do-nafto.md)
-* [Registro de Alterações](governanca-e-feedback/registro-de-alteracoes.md)
 * [Feedback e Contribuições](governanca-e-feedback/feedback-e-contribuicoes.md)
+* [Registro de Alterações](governanca-e-feedback/registro-de-alteracoes.md)
 
 ## ----------------------------------
 
