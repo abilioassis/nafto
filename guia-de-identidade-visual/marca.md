@@ -12,13 +12,13 @@ O Nafto segue as especificações da [Marca Petrobras](https://petrobras.com.br/
 
 A marca é uma composição entre símbolo (a) e logotipo (b).
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Crédito da imagem: Manual do Sistema de Identidade Visual Petrobras</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Crédito da imagem: Manual do Sistema de Identidade Visual Petrobras</p></figcaption></figure>
 
 ## Área de Não Interferência
 
 É a distância mínima entre a marca e qualquer elemento que possa interferir na sua visualização. Essa distância é determinada pela altura (x) das letras “BR”.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Crédito da imagem: Manual do Sistema de Identidade Visual Petrobras</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Crédito da imagem: Manual do Sistema de Identidade Visual Petrobras</p></figcaption></figure>
 
 ## Redução Máxima
 
