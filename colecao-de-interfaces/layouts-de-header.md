@@ -14,6 +14,8 @@ Aqui você encontrará uma variedade de designs de cabeçalhos que combinam esti
 
 Este layout minimalista posiciona o nome da aplicação à esquerda combinando marca e navegação à direita.
 
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
 ## Nome da aplicação à esquerda / Marca e ações globais à direita
 
 Este cabeçalho posiciona o nome da aplicação à esquerda e a marca à direita, acompanhada de uma navegação icônica para acesso rápido às ações globais.
