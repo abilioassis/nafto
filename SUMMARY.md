@@ -53,6 +53,12 @@
 * [OutSystems](tecnologias-e-plataformas/outsystems/README.md)
   * [Nafto UI Kit para OutSystems](tecnologias-e-plataformas/outsystems/nafto-ui-kit-para-outsystems.md)
 
+## Governança e Feedback
+
+* [Métricas do Nafto](governanca-e-feedback/metricas-do-nafto.md)
+* [Registro de Alterações](governanca-e-feedback/registro-de-alteracoes.md)
+* [Feedback e Contribuições](governanca-e-feedback/feedback-e-contribuicoes.md)
+
 ## ----------------------------------
 
 * [Atividades](undefined/atividades.md)
