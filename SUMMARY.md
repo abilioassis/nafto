@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Nafto Design System](README.md)
-* [Feedbcks e Contribuições](feedbcks-e-contribuicoes.md)
 
 ## IDENTIDADE VISUAL
 
