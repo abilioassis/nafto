@@ -8,7 +8,11 @@ description: >-
 
 Aqui você encontrará uma variedade de designs de cabeçalhos que combinam estilo e funcionalidade, idealizados para atender a diversas necessidades e contextos de aplicação. Cada design foi pensado para que os usuários possam interagir de maneira eficiente e intuitiva.
 
-**IMPORTANTE**: Optamos pela marca em preto e branco apenas para harmonizar o design, uma vez que estamos disponibilizando versões em baixa fidelidade, nas quais as cores são geralmente simplificadas. Em designs de alta fidelidade ou em telas reais, **a** [**marca colorida**](../guia-de-identidade-visual/marca.md#marca-colorida) **deve ser utilizada**.
+## Nome da aplicação à esquerda / Busca centralizada / Marca e ações globais à direita
+
+Este layout posiciona o nome da aplicação à esquerda, uma busca centralizada para fácil acesso, e o logo com ações globais à direita, otimizando a funcionalidade e uso do espaço.
+
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 ## **Logo à esquerda com busca / Navegação à direita com ações globais**
 
@@ -52,8 +56,4 @@ Este layout organiza o logo à esquerda, o nome da aplicação ao centro e busca
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-## Nome da aplicação à esquerda / Busca centralizada / Marca e ações globais à direita
-
-Este layout posiciona o nome da aplicação à esquerda, uma busca centralizada para fácil acesso, e o logo com ações globais à direita, otimizando a funcionalidade e uso do espaço.
-
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+##
