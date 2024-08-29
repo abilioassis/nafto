@@ -8,7 +8,7 @@ description: >-
 
 Aqui você encontrará uma variedade de designs de cabeçalhos que combinam estilo e funcionalidade, idealizados para atender a diversas necessidades e contextos de aplicação. Cada design foi pensado para que os usuários possam interagir de maneira eficiente e intuitiva.
 
-**IMPORTANTE**: Optamos pela marca em preto e branco apenas para harmonizar o design, uma vez que estamos disponibilizando versões em baixa fidelidade, nas quais as cores são geralmente simplificadas. Em designs de alta fidelidade ou em telas reais, **a marca colorida deve ser utilizada**.
+**IMPORTANTE**: Optamos pela marca em preto e branco apenas para harmonizar o design, uma vez que estamos disponibilizando versões em baixa fidelidade, nas quais as cores são geralmente simplificadas. Em designs de alta fidelidade ou em telas reais, **a** [**marca colorida**](../guia-de-identidade-visual/marca.md#marca-colorida) **deve ser utilizada**.
 
 ## **Logo à esquerda com busca / Navegação à direita com ações globais**
 
