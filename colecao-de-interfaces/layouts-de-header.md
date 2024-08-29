@@ -14,9 +14,7 @@ Aqui você encontrará uma variedade de designs de cabeçalhos que combinam esti
 
 Este layout minimalista posiciona o nome da aplicação à esquerda combinando marca e navegação à direita.
 
-![](https://imgr.whimsical.com/object/9b2fsAjtkPgiR7k4T1dYES)
-
-## Nome da aplicação à esquerda / Marca e ãções globais à direita
+## Nome da aplicação à esquerda / Marca e ações globais à direita
 
 Este cabeçalho posiciona o nome da aplicação à esquerda e a marca à direita, acompanhada de uma navegação icônica para acesso rápido às ações globais.
 
@@ -25,10 +23,6 @@ Este cabeçalho posiciona o nome da aplicação à esquerda e a marca à direita
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Layouts de Header.png" alt=""><figcaption></figcaption></figure>
-
-##
-
-<figure><img src="../.gitbook/assets/img1.svg" alt=""><figcaption></figcaption></figure>
 
 ## Nome da aplicação à esquerda / Busca centralizada / Marca e ações globais à direita
 
@@ -41,6 +35,10 @@ Este layout posiciona o nome da aplicação à esquerda, uma busca centralizada 
 Este é o cabeçalho mais complexo, com o nome da aplicação à esquerda, busca centralizada, marca e ações globais à direita, e uma segunda linha dedicada à navegação.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+##
+
+<figure><img src="../.gitbook/assets/Layouts de Header@2x.png" alt=""><figcaption></figcaption></figure>
 
 ## **Sem container de fundo**
 
