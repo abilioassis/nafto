@@ -22,7 +22,7 @@ Este cabeçalho posiciona o nome da aplicação à esquerda e a marca à direita
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-##
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Layouts de Header.png" alt=""><figcaption></figcaption></figure>
 
