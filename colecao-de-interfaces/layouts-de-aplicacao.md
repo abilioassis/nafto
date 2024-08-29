@@ -48,13 +48,13 @@ Organiza informações em blocos ou "cartões", permitindo uma interface limpa e
 
 Uma barra lateral contém todas as opções de navegação e ferramentas, maximizando o espaço de conteúdo principal.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Apenas navegação por ícones na barra lateral**
 
 Navegação minimalista com ícones, economizando espaço enquanto oferece acesso rápido às funções principais através de uma barra lateral.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Layout de três colunas**
 

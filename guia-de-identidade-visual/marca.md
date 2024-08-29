@@ -24,7 +24,7 @@ A marca é uma composição entre símbolo (a) e logotipo (b).
 
 Existem tamanhos mínimos permitidos para aplicação da marca. Em mídia digital, a redução máxima é 100 pixels de largura para assinatura horizontal e 74 pixels de largura para assinatura vertical. Em telas de alta-resolução, essa medida pode resultar em uma marca muito pequena. Nesses casos, o tamanho mínimo deverá ser aquele que ainda ofereça boa legibilidade.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Crédito da imagem: Manual do Sistema de Identidade Visual Petrobras</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Crédito da imagem: Manual do Sistema de Identidade Visual Petrobras</p></figcaption></figure>
 
 ## Marca Colorida
 
@@ -40,7 +40,7 @@ A marca monocromática (em preto e branco e com fundo colorido) deves ser utiliz
 
 A marca Petrobras deve ter a mesma largura da marca nominativa do Governo Federal e deve estar alinhada ao centro da altura da palavra “BRASIL”. As duas marcas devem ser separadas pelo dobro da largura da letra “I” de “BRASIL”.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Crédito da imagem: Manual do Sistema de Identidade Visual Petrobras</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Crédito da imagem: Manual do Sistema de Identidade Visual Petrobras</p></figcaption></figure>
 
 ## Download de Marcas
 

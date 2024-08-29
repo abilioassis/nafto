@@ -12,15 +12,35 @@ Aqui você encontrará uma variedade de designs de cabeçalhos que combinam esti
 
 Este layout minimalista posiciona o nome da aplicação à esquerda combinando marca e navegação à direita.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+## Nome da aplicação à esquerda / Marca e ãções globais à direita
+
+Este cabeçalho posiciona o nome da aplicação à esquerda e a marca à direita, acompanhada de uma navegação icônica para acesso rápido às ações globais.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Nome da aplicação à esquerda / Busca centralizada / Marca e ações globais à direita
 
 Este layout posiciona o nome da aplicação à esquerda, uma busca centralizada para fácil acesso, e o logo com ações globais à direita, otimizando a funcionalidade e uso do espaço.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-## **Logo à esquerda com busca / Navegação à direita com ações globais**
+
+
+
+
+## Nome da aplicação à esquerda / Busca centralizado / Marca e ações globais à direita / Navegação na segunda linha
+
+Este é o cabeçalho mais complexo, com o nome da aplicação à esquerda, busca centralizada, marca e ações globais à direita, e uma segunda linha dedicada à navegação.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+## &#x20;**Logo à esquerda com busca / Navegação à direita com ações globais**
 
 Um cabeçalho que posiciona o logo à esquerda, inclui uma barra de busca e a navegação principal à direita com botões de ações globais.
 
@@ -42,13 +62,13 @@ Combina logo à esquerda, navegação centralizada no meio, e busca e ações gl
 
 Caracteriza-se pela navegação à esquerda, logo centralizado e uma barra de busca com ações globais à direita.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Navegação na segunda linha**
 
 Este layout coloca a navegação principal abaixo do cabeçalho principal, geralmente utilizado para separar claramente as seções do site.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## **Sem container de fundo**
 
