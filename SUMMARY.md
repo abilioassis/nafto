@@ -8,15 +8,15 @@
 * [Cores](guia-de-identidade-visual/cores.md)
 * [Tipografia](guia-de-identidade-visual/tipografia.md)
 
-## Coleção de Interfaces
+## Coleção de Layouts
 
-* [Visão Geral](colecao-de-interfaces/visao-geral.md)
-* [Layouts de Header](colecao-de-interfaces/layouts-de-header.md)
-* [Layouts de Footer](colecao-de-interfaces/layouts-de-footer.md)
-* [Layouts de Modal Pop-up](colecao-de-interfaces/layouts-de-modal-pop-up.md)
-* [Layouts de Tabela de Dados](colecao-de-interfaces/layouts-de-tabela-de-dados.md)
-* [Layouts de Formulários](colecao-de-interfaces/layouts-de-formularios.md)
-* [Layouts de Aplicação](colecao-de-interfaces/layouts-de-aplicacao.md)
+* [Visão Geral](colecao-de-layouts/visao-geral.md)
+* [Layouts de Header](colecao-de-layouts/layouts-de-header.md)
+* [Layouts de Footer](colecao-de-layouts/layouts-de-footer.md)
+* [Layouts de Modal Pop-up](colecao-de-layouts/layouts-de-modal-pop-up.md)
+* [Layouts de Tabela de Dados](colecao-de-layouts/layouts-de-tabela-de-dados.md)
+* [Layouts de Formulários](colecao-de-layouts/layouts-de-formularios.md)
+* [Layouts de Aplicação](colecao-de-layouts/layouts-de-aplicacao.md)
 
 ## Tecnologias e Plataformas
 
