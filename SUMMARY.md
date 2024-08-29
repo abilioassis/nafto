@@ -16,7 +16,6 @@
 * [Layouts de Modal Pop-up](colecao-de-interfaces/layouts-de-modal-pop-up.md)
 * [Layouts de Tabela de Dados](colecao-de-interfaces/layouts-de-tabela-de-dados.md)
 * [Layouts de Formulários](colecao-de-interfaces/layouts-de-formularios.md)
-* [Layouts de Dashboards](colecao-de-interfaces/layouts-de-dashboards.md)
 * [Layouts de Aplicação](colecao-de-interfaces/layouts-de-aplicacao.md)
 
 ## Tecnologias e Plataformas
