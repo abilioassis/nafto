@@ -19,6 +19,18 @@
 * [Layouts de Dashboards](colecao-de-interfaces/layouts-de-dashboards.md)
 * [Layouts de Aplicação](colecao-de-interfaces/layouts-de-aplicacao.md)
 
+## Tecnologias e Plataformas
+
+* [React](tecnologias-e-plataformas/react/README.md)
+  * [Nafto UI Kit para React](tecnologias-e-plataformas/react/nafto-ui-kit-para-react.md)
+* [Angular](tecnologias-e-plataformas/angular/README.md)
+  * [Nafto UI Kit para Angular](tecnologias-e-plataformas/angular/nafto-ui-kit-para-angular.md)
+* [Power BI](tecnologias-e-plataformas/power-bi.md)
+* [ServiceNow](tecnologias-e-plataformas/servicenow/README.md)
+  * [Nafto UI Kit para ServiceNow](tecnologias-e-plataformas/servicenow/nafto-ui-kit-para-servicenow.md)
+* [OutSystems](tecnologias-e-plataformas/outsystems/README.md)
+  * [Nafto UI Kit para OutSystems](tecnologias-e-plataformas/outsystems/nafto-ui-kit-para-outsystems.md)
+
 ## ACESSIBILIDADE DIGITAL
 
 * [Introdução à Acessibilidade](acessibilidade-digital/introducao-a-acessibilidade/README.md)
@@ -39,18 +51,6 @@
   * [Garanta um Bom Contraste](acessibilidade-digital/checklist-de-acessibilidade/garanta-um-bom-contraste.md)
   * [Como Descrever Imagens](acessibilidade-digital/checklist-de-acessibilidade/como-descrever-imagens.md)
   * [Crie Formulários Acessíveis](acessibilidade-digital/checklist-de-acessibilidade/crie-formularios-acessiveis.md)
-
-## Tecnologias e Plataformas
-
-* [React](tecnologias-e-plataformas/react/README.md)
-  * [Nafto UI Kit para React](tecnologias-e-plataformas/react/nafto-ui-kit-para-react.md)
-* [Angular](tecnologias-e-plataformas/angular/README.md)
-  * [Nafto UI Kit para Angular](tecnologias-e-plataformas/angular/nafto-ui-kit-para-angular.md)
-* [Power BI](tecnologias-e-plataformas/power-bi.md)
-* [ServiceNow](tecnologias-e-plataformas/servicenow/README.md)
-  * [Nafto UI Kit para ServiceNow](tecnologias-e-plataformas/servicenow/nafto-ui-kit-para-servicenow.md)
-* [OutSystems](tecnologias-e-plataformas/outsystems/README.md)
-  * [Nafto UI Kit para OutSystems](tecnologias-e-plataformas/outsystems/nafto-ui-kit-para-outsystems.md)
 
 ## Governança e Feedback
 
