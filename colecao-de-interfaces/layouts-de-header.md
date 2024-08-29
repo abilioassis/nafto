@@ -28,6 +28,8 @@ Este cabeçalho posiciona o nome da aplicação à esquerda e a marca à direita
 
 ##
 
+<figure><img src="../.gitbook/assets/img1.svg" alt=""><figcaption></figcaption></figure>
+
 ## Nome da aplicação à esquerda / Busca centralizada / Marca e ações globais à direita
 
 Este layout posiciona o nome da aplicação à esquerda, uma busca centralizada para fácil acesso, e o logo com ações globais à direita, otimizando a funcionalidade e uso do espaço.
