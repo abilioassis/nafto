@@ -44,6 +44,10 @@ Organiza informações em blocos ou "cartões", permitindo uma interface limpa e
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
+## **Layout com banner**
+
+
+
 ## **Apenas barra lateral**
 
 Uma barra lateral contém todas as opções de navegação e ferramentas, maximizando o espaço de conteúdo principal.
