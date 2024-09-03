@@ -2,13 +2,13 @@
 
 * [Nafto Design System](README.md)
 
-## IDENTIDADE VISUAL
+## ↓ IDENTIDADE VISUAL
 
 * [Marca](guia-de-identidade-visual/marca.md)
 * [Cores](guia-de-identidade-visual/cores.md)
 * [Tipografia](guia-de-identidade-visual/tipografia.md)
 
-## ACESSIBILIDADE DIGITAL
+## ↓ ACESSIBILIDADE DIGITAL
 
 * [Introdução à Acessibilidade](acessibilidade-digital/introducao-a-acessibilidade/README.md)
   * [Como a Acessibilidade Digital é Medida](acessibilidade-digital/introducao-a-acessibilidade/como-a-acessibilidade-digital-e-medida.md)
@@ -29,7 +29,7 @@
   * [Como Descrever Imagens](acessibilidade-digital/checklist-de-acessibilidade/como-descrever-imagens.md)
   * [Crie Formulários Acessíveis](acessibilidade-digital/checklist-de-acessibilidade/crie-formularios-acessiveis.md)
 
-## Coleção de Layouts
+## ↓ Coleção de Layouts
 
 * [Visão Geral](colecao-de-layouts/visao-geral.md)
 * [Layouts de Header](colecao-de-layouts/layouts-de-header.md)
@@ -39,7 +39,7 @@
 * [Layouts de Formulários](colecao-de-layouts/layouts-de-formularios.md)
 * [Layouts de Aplicação](colecao-de-layouts/layouts-de-aplicacao.md)
 
-## Tecnologias e Plataformas
+## ↓ Tecnologias e Plataformas
 
 * [React Interface Design](tecnologias-e-plataformas/react-interface-design/README.md)
   * [Por onde começar?](tecnologias-e-plataformas/react-interface-design/por-onde-comecar/README.md)
@@ -77,7 +77,7 @@
 * [OutSystems](tecnologias-e-plataformas/outsystems/README.md)
   * [Nafto UI Kit para OutSystems](tecnologias-e-plataformas/outsystems/nafto-ui-kit-para-outsystems.md)
 
-## Governança e Feedback
+## ↓ Governança e Feedback
 
 * [Métricas do Nafto](governanca-e-feedback/metricas-do-nafto.md)
 * [Feedback e Contribuições](governanca-e-feedback/feedback-e-contribuicoes.md)

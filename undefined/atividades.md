@@ -37,7 +37,7 @@
 
 ## Semana: 2 - 6/SET
 
-* \[CONCLUÍDA] Site map para React Interface Design
+* \[FAZENDO] Arquiteutra da informação para: **React Interface Design**
 * \[A FAZER] ACESSIBILIDADE
   * Exportar somente as instâncias dos componentes configurados.
     * Gerar um arquivo do Figma que poderia ser usado pelos designers.
