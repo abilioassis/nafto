@@ -46,7 +46,7 @@
   * [Por onde começar?](tecnologias-e-plataformas/react-interface-design/por-onde-comecar/README.md)
     * [O que você precisa saber sobre React?](tecnologias-e-plataformas/react-interface-design/por-onde-comecar/o-que-voce-precisa-saber-sobre-react.md)
     * [O que você precisa saber sobre Material UI?](tecnologias-e-plataformas/react-interface-design/por-onde-comecar/o-que-voce-precisa-saber-sobre-material-ui.md)
-    * [O que você precisa saber sobre Nafto UI Kit para React?](tecnologias-e-plataformas/react-interface-design/por-onde-comecar/o-que-voce-precisa-saber-sobre-nafto-ui-kit-para-react.md)
+    * [O que você precisa saber sobre Nafto UI Kit para React?](tecnologias-e-plataformas/react-interface-design/por-onde-comecar/o-que-voce-precisa-saber-sobre-nafto-ui-kit-para-react/README.md)
   * [Como projetar interfaces usando o Nafto UI Kit para React?](tecnologias-e-plataformas/react-interface-design/como-projetar-interfaces-usando-o-nafto-ui-kit-para-react/README.md)
     * [Como projetar um header usando o Nafto UI Kit para React?](tecnologias-e-plataformas/react-interface-design/como-projetar-interfaces-usando-o-nafto-ui-kit-para-react/como-projetar-um-header-usando-o-nafto-ui-kit-para-react.md)
     * [Como projetar um footer usando o Nafto UI Kit para React?](tecnologias-e-plataformas/react-interface-design/como-projetar-interfaces-usando-o-nafto-ui-kit-para-react/como-projetar-um-footer-usando-o-nafto-ui-kit-para-react.md)
