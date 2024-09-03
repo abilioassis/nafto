@@ -20,16 +20,3 @@
 
 ## Qual o suporte do Material UI para Acessibilidade?
 
-
-
-
-
-
-
-
-
-
-
-## O que você precisa saber sobre Material UI?
-
-## O que você precisa saber sobre Nafto UI Kit para React?
