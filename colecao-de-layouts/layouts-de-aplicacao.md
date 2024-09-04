@@ -38,8 +38,6 @@ Permite uma organização hierárquica profunda com vários níveis de navegaç�
 
 <figure><img src="../.gitbook/assets/app-5.svg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
-
 ## **Layout de cartões**
 
 Organiza informações em blocos ou "cartões", permitindo uma interface limpa e modular, ideal para dashboards ou resumos.
