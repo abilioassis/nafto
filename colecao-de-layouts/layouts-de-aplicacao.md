@@ -12,9 +12,9 @@ São estruturas visuais essenciais que ajudam a organizar o conteúdo e as funç
 
 Combinação de menus verticais e horizontais, otimizando espaço e melhorando a acessibilidade das funcionalidades principais.
 
-<figure><img src="../.gitbook/assets/app-1.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/aplicacao-1.svg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/app-1.png" alt=""><figcaption></figcaption></figure>
+
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
