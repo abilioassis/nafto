@@ -14,6 +14,8 @@ Aqui você encontrará uma variedade de designs de cabeçalhos que combinam esti
 
 Este layout minimalista posiciona o nome da aplicação à esquerda combinando marca e navegação à direita.
 
+<figure><img src="../.gitbook/assets/header1.svg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 ## Header 2
