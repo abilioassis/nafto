@@ -37,11 +37,13 @@
 
 ## Semana: 2 - 6/SET
 
-* \[CONCLUÍDO] Arquiteutra da informação para: **React Interface Design**
-* COLEÇÃO DE INTERFACES
+* \[CONCLUÍDO] Arquitetura da informação para: **React Interface Design**
+* \[FAZENDO] COLEÇÃO DE INTERFACES
   * \[CONCLUÍDO] Layouts de Header
   * \[CONCLUÍDO] Layouts de Aplicação
-*
+* \[A FAZER] TECNOLOGIA E PLATAFORMAS
+  * \[A FAZER] Implementar layouts no **Nafto UI Kit para React**.
+  * \[A FAZER] Gerar arquivo do configuração JSON de tema para componentes React.
 
 ## Semana: 9 - 13/SET
 
