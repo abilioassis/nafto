@@ -24,7 +24,7 @@ Este cabeçalho posiciona o nome da aplicação à esquerda e a marca à direita
 
 ## Header 3
 
-Este layout posiciona o nome da aplicação à esquerda, uma busca centralizada para fácil acesso, e o logo com ações globais à direita, otimizando a funcionalidade e uso do espaço.
+Este layout posiciona o nome da aplicação à esquerda, uma busca centralizada para fácil acesso, e a marca com ações globais à direita, otimizando a funcionalidade e uso do espaço.
 
 <figure><img src="../.gitbook/assets/header-3 (1).svg" alt=""><figcaption></figcaption></figure>
 
