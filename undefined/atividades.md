@@ -31,13 +31,20 @@
 
 * COLEÇÃO DE INTERFACES
   * \[CONCLUÍDO] Visão geral
-  * \[CONCLUÍDO] Layouts de aplicação
+  * \[FAZENDO] Layouts de aplicação
 * GOVERNANÇA E FEEDBACK
   * Foi incluída essa seção com subpáginas específicas.
 
 ## Semana: 2 - 6/SET
 
-* \[FAZENDO] Arquiteutra da informação para: **React Interface Design**
+* \[CONCLUÍDO] Arquiteutra da informação para: **React Interface Design**
+* COLEÇÃO DE INTERFACES
+  * \[CONCLUÍDO] Layouts de Header
+  * \[CONCLUÍDO] Layouts de Aplicação
+*
+
+## Semana: 9 - 13/SET
+
 * \[A FAZER] ACESSIBILIDADE
   * Exportar somente as instâncias dos componentes configurados.
     * Gerar um arquivo do Figma que poderia ser usado pelos designers.
@@ -55,9 +62,6 @@
   * Decidir onde o site do Nafto será hospedado.
   * Transferir o conteúdo para o destino.
   * Somente o conteúdo licenciado (MUI for Figma?).
-
-## Semana: 9 - 13/SET
-
 * \[A FAZER] LANÇAMENTO
   * Comunicar e lançar o novo site.
 
