@@ -14,22 +14,22 @@ Aqui você encontrará uma variedade de designs de cabeçalhos que combinam esti
 
 Este layout minimalista posiciona o nome da aplicação à esquerda combinando marca e navegação à direita.
 
-<figure><img src="../.gitbook/assets/header-1.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/header-1 (1).svg" alt=""><figcaption></figcaption></figure>
 
 ## Header 2
 
 Este cabeçalho posiciona o nome da aplicação à esquerda e a marca à direita, acompanhada de uma navegação icônica para acesso rápido às ações globais.
 
-<figure><img src="../.gitbook/assets/header-2.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/header-2 (1).svg" alt=""><figcaption></figcaption></figure>
 
 ## Header 3
 
 Este layout posiciona o nome da aplicação à esquerda, uma busca centralizada para fácil acesso, e o logo com ações globais à direita, otimizando a funcionalidade e uso do espaço.
 
-<figure><img src="../.gitbook/assets/header-3.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/header-3 (1).svg" alt=""><figcaption></figcaption></figure>
 
 ## Header 4
 
 Este é o cabeçalho mais complexo, com o nome da aplicação à esquerda, busca centralizada, marca e ações globais à direita, e uma segunda linha dedicada à navegação.
 
-<figure><img src="../.gitbook/assets/header-4.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/header-4 (1).svg" alt=""><figcaption></figcaption></figure>
