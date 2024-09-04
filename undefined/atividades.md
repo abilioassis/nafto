@@ -41,6 +41,7 @@
 * \[FAZENDO] COLEÇÃO DE INTERFACES
   * \[CONCLUÍDO] Layouts de Header
   * \[CONCLUÍDO] Layouts de Aplicação
+  * ...
 * \[A FAZER] TECNOLOGIA E PLATAFORMAS
   * \[A FAZER] Implementar layouts no **Nafto UI Kit para React**.
   * \[A FAZER] Gerar arquivo do configuração JSON de tema para componentes React.
