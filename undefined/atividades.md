@@ -29,9 +29,11 @@
 
 ## Semana: 26 - 30/AGO
 
-* COLEÇÃO DE INTERFACES
+* \[FAZENDO] COLEÇÃO DE INTERFACES
   * \[CONCLUÍDO] Visão geral
+  * \[CONCLUÍDO] Layouts de Header
   * \[FAZENDO] Layouts de aplicação
+    * Redesenhar incluindo os headers.
 * GOVERNANÇA E FEEDBACK
   * Foi incluída essa seção com subpáginas específicas.
 
