@@ -32,8 +32,11 @@
 * \[FAZENDO] COLEÇÃO DE INTERFACES
   * \[CONCLUÍDO] Visão geral
   * \[CONCLUÍDO] Layouts de Header
-  * \[FAZENDO] Layouts de aplicação
-    * Redesenhar incluindo os headers.
+  * \[CONCLUÍDO] Layouts de aplicação
+  * ...
+* \[A FAZER] NAFTO PARA REACT
+  * \[A FAZER] Implementar layout de Header em alta fidelidade
+  * \[A FAZER] Implementar layout de Aplicação em alta fidelidade
 * GOVERNANÇA E FEEDBACK
   * Foi incluída essa seção com subpáginas específicas.
 
