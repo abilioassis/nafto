@@ -53,8 +53,10 @@
   * [Nafto UI Kit para Angular](tecnologias-e-plataformas/angular/nafto-ui-kit-para-angular.md)
 * [Power BI](tecnologias-e-plataformas/power-bi.md)
 * [Spotfire](tecnologias-e-plataformas/spotfire.md)
+* [SAP](tecnologias-e-plataformas/sap.md)
 * [ServiceNow](tecnologias-e-plataformas/servicenow/README.md)
   * [Nafto UI Kit para ServiceNow](tecnologias-e-plataformas/servicenow/nafto-ui-kit-para-servicenow.md)
+* [Salesforce](tecnologias-e-plataformas/salesforce.md)
 * [OutSystems](tecnologias-e-plataformas/outsystems/README.md)
   * [Nafto UI Kit para OutSystems](tecnologias-e-plataformas/outsystems/nafto-ui-kit-para-outsystems.md)
 
