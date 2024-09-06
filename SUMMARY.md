@@ -42,7 +42,7 @@
 
 ## ↓ Tecnologias e Plataformas
 
-* [Web Standards (HTML, CSS, JS)](tecnologias-e-plataformas/web-standards-html-css-js.md)
+* [Web Standards](tecnologias-e-plataformas/web-standards.md)
 * [React](tecnologias-e-plataformas/react/README.md)
   * [Por onde começar?](tecnologias-e-plataformas/react/por-onde-comecar/README.md)
     * [O que você precisa saber sobre React?](tecnologias-e-plataformas/react/por-onde-comecar/o-que-voce-precisa-saber-sobre-react.md)
