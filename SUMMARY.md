@@ -42,15 +42,17 @@
 
 ## ↓ Tecnologias e Plataformas
 
-* [React Interface Design](tecnologias-e-plataformas/react-interface-design/README.md)
-  * [Por onde começar?](tecnologias-e-plataformas/react-interface-design/por-onde-comecar/README.md)
-    * [O que você precisa saber sobre React?](tecnologias-e-plataformas/react-interface-design/por-onde-comecar/o-que-voce-precisa-saber-sobre-react.md)
-    * [O que você precisa saber sobre Material UI?](tecnologias-e-plataformas/react-interface-design/por-onde-comecar/o-que-voce-precisa-saber-sobre-material-ui.md)
-    * [O que você precisa saber sobre Nafto UI Kit para React?](tecnologias-e-plataformas/react-interface-design/por-onde-comecar/o-que-voce-precisa-saber-sobre-nafto-ui-kit-para-react/README.md)
-  * [Como projetar interfaces usando o Nafto UI Kit para React?](tecnologias-e-plataformas/react-interface-design/como-projetar-interfaces-usando-o-nafto-ui-kit-para-react.md)
+* [Web Standards (HTML, CSS, JS)](tecnologias-e-plataformas/web-standards-html-css-js.md)
+* [React](tecnologias-e-plataformas/react/README.md)
+  * [Por onde começar?](tecnologias-e-plataformas/react/por-onde-comecar/README.md)
+    * [O que você precisa saber sobre React?](tecnologias-e-plataformas/react/por-onde-comecar/o-que-voce-precisa-saber-sobre-react.md)
+    * [O que você precisa saber sobre Material UI?](tecnologias-e-plataformas/react/por-onde-comecar/o-que-voce-precisa-saber-sobre-material-ui.md)
+    * [O que você precisa saber sobre Nafto UI Kit para React?](tecnologias-e-plataformas/react/por-onde-comecar/o-que-voce-precisa-saber-sobre-nafto-ui-kit-para-react.md)
+  * [Como projetar interfaces usando o Nafto UI Kit para React?](tecnologias-e-plataformas/react/como-projetar-interfaces-usando-o-nafto-ui-kit-para-react.md)
 * [Angular](tecnologias-e-plataformas/angular/README.md)
   * [Nafto UI Kit para Angular](tecnologias-e-plataformas/angular/nafto-ui-kit-para-angular.md)
 * [Power BI](tecnologias-e-plataformas/power-bi.md)
+* [Spotfire](tecnologias-e-plataformas/spotfire.md)
 * [ServiceNow](tecnologias-e-plataformas/servicenow/README.md)
   * [Nafto UI Kit para ServiceNow](tecnologias-e-plataformas/servicenow/nafto-ui-kit-para-servicenow.md)
 * [OutSystems](tecnologias-e-plataformas/outsystems/README.md)
