@@ -32,6 +32,7 @@
 ## ↓ Coleção de Layouts
 
 * [Visão Geral](colecao-de-layouts/visao-geral.md)
+* [Breakpoints e Design Responsivo](colecao-de-layouts/breakpoints-e-design-responsivo.md)
 * [Layouts de Header](colecao-de-layouts/layouts-de-header.md)
 * [Layouts de Footer](colecao-de-layouts/layouts-de-footer.md)
 * [Layouts de Card](colecao-de-layouts/layouts-de-card.md)
