@@ -32,7 +32,6 @@
 ## ↓ Coleção de Layouts
 
 * [Visão Geral](colecao-de-layouts/visao-geral.md)
-* [Breakpoints e Design Responsivo](colecao-de-layouts/breakpoints-e-design-responsivo.md)
 * [Layouts de Header](colecao-de-layouts/layouts-de-header.md)
 * [Layouts de Footer](colecao-de-layouts/layouts-de-footer.md)
 * [Layouts de Card](colecao-de-layouts/layouts-de-card.md)
@@ -43,6 +42,7 @@
 
 ## ↓ Tecnologias e Plataformas
 
+* [Breakpoints e Design Responsivo](tecnologias-e-plataformas/breakpoints-e-design-responsivo.md)
 * [Web Standards](tecnologias-e-plataformas/web-standards.md)
 * [React](tecnologias-e-plataformas/react/README.md)
   * [Por onde começar?](tecnologias-e-plataformas/react/por-onde-comecar/README.md)
