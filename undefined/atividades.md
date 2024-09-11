@@ -58,11 +58,13 @@
   * \[A FAZER] Gerar arquivo do configuração JSON de tema para componentes React.
 *   QUESTÕES:
 
-    * Qual o perfil de acesso dos devs para o GitHub?
-      * Vamos adotar o mesmo critério para o Nafto.
-    * Projeto piloto do Nafto para Refino.
-      * Compra de MUI for Figma
-    * GitBook X Sharepoint.
+    * Reunião com Leonardo Jesus
+      * Qual o perfil de acesso dos devs para o GitHub?
+        * Vamos adotar o mesmo critério para o Nafto.
+      * Adoção do GitBook.
+    * Priorização do Projeto Piloto do Nafto para Refino (Maron).
+      * Compra de MUI for Figma.
+        * Preencher formulário.
 
 
 
