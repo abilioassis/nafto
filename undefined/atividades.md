@@ -47,12 +47,31 @@
   * \[CONCLUÍDO] Layouts de Header
   * \[CONCLUÍDO] Layouts de Aplicação
   * ...
-* \[A FAZER] TECNOLOGIA E PLATAFORMAS
-  * \[A FAZER] Implementar layouts no **Nafto UI Kit para React**.
-  * \[A FAZER] Gerar arquivo do configuração JSON de tema para componentes React.
 
 ## Semana: 9 - 13/SET
 
+* \[FAZENDO] TECNOLOGIA E PLATAFORMAS
+  * \[FAZENDO] Implementar Headers no **Nafto UI Kit para React**.
+    * Adicionado notas de Acessibilidade.
+    * Incluir a Barra de Acessibilidade desenvolvida para o OutSystems.
+  * \[A FAZER] Implementar Layouts de Aplicação no **Nafto UI Kit para React**.
+  * \[A FAZER] Gerar arquivo do configuração JSON de tema para componentes React.
+*   QUESTÕES:
+
+    * Qual o perfil de acesso dos devs para o GitHub?
+      * Vamos adotar o mesmo critério para o Nafto.
+    * Projeto piloto do Nafto para Refino.
+      * Compra de MUI for Figma
+    * GitBook X Sharepoint.
+
+
+
+
+
+## Semana: ?
+
+* \[ A FAZER] PILOTO
+  * Rodar um projeto a partir dos artefatos disponibilizados.
 * \[A FAZER] ACESSIBILIDADE
   * Exportar somente as instâncias dos componentes configurados.
     * Gerar um arquivo do Figma que poderia ser usado pelos designers.
@@ -72,11 +91,6 @@
   * Somente o conteúdo licenciado (MUI for Figma?).
 * \[A FAZER] LANÇAMENTO
   * Comunicar e lançar o novo site.
-
-## Semana: ?
-
-* \[ A FAZER] PILOTO
-  * Rodar um projeto a partir dos artefatos disponibilizados.
 
 ## Ajuda que Preciso
 
