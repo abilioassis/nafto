@@ -19,21 +19,33 @@ Ao projetar um **header** (também conhecido como **App Bar**) para uma aplicaç
     * **Ícones Globais**: Incluem ícones como notificações, perfil do usuário e configurações, proporcionando acesso rápido a funcionalidades importantes.
     * **Marca (Logomarca da Empresa)**: A logomarca da empresa deve estar presente de forma destacada, reforçando a identidade visual e a presença da marca.
 
-### Exemplos de header
-
-
+### Header Desktop
 
 <figure><img src="../../.gitbook/assets/conjunto-headers (3).png" alt=""><figcaption></figcaption></figure>
 
-### Header com notas de acessibilidade
+### Acessibilidade no header
 
 <figure><img src="../../.gitbook/assets/header-anotado.png" alt=""><figcaption></figcaption></figure>
 
-1. Landmarks:  `<header role=”banner”>`
-2. Título: `H6`
-3. Label descrevendo navegação principal:  `<nav aria-label=”links principais”>`
-4. Lista e atributo indicando link selecionado: `<ul><li><a href=”...” aria-current=”page”>Link 3</ul>`
-5. Label descrevendo navegção por ícone: `<nav aria-label=”ícones globais”>`
+1. **Landmark do header**: `<header role="banner">`\
+   O elemento `<header>` com o atributo `role="banner"` indica que esta é a seção principal do cabeçalho da página.
+2. **Título**: `<h6>`\
+   O título da aplicação ou seção deve ser marcado com um elemento `<h6>`, embora o nível do título dependa da hierarquia semântica da página.
+3. **Label descrevendo navegação principal**:\
+   `<nav aria-label="links principais">`\
+   A navegação principal deve ser envolvida em um elemento `<nav>` com o atributo `aria-label` para descrever sua função, neste caso, "links principais".
+4. **Lista de links e indicação do link selecionado**:\
+   A lista de links de navegação deve ser estruturada com o elemento `<ul>`. O link selecionado na navegação deve conter o atributo `aria-current="page"`.
+
+```html
+<ul>
+  <li><a href="..." aria-current="page">Link 3</a></li>
+</ul>
+```
+
+5. **Label descrevendo navegação por ícones**:\
+   `<nav aria-label="ícones globais">`\
+   A navegação através de ícones globais (como notificações ou perfil de usuário) deve ser envolvida por um `<nav>` com o atributo `aria-label="ícones globais"` para proporcionar acessibilidade adequada.
 
 
 
