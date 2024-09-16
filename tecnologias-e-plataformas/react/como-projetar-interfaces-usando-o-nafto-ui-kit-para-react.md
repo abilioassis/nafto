@@ -4,7 +4,9 @@
 
 Ao projetar um **header** (também conhecido como **App Bar**) para uma aplicação, é importante garantir que ele seja funcional, acessível e reflita a identidade visual da empresa. A **App Bar** serve como o principal ponto de navegação global e agrupamento de ícones e links essenciais. A seguir, detalhamos a anatomia do header que foi projetado.
 
-### **Estrutura do header**
+### **Estrutura do header no Figma**
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * **App Bar**: O elemento base do header. Ele funciona como um contêiner principal que organiza os elementos de navegação e exibição. Em muitos casos, é usado em conjunto com o **Paper** para criar um efeito de elevação, dando destaque à barra de navegação.
 * **Paper**: O uso do componente **Paper** na **App Bar** ajuda a criar uma separação visual entre a barra de navegação e o restante da interface. A elevação aplicada pelo **Paper** cria uma sensação de profundidade, essencial para destacar o header.
@@ -30,8 +32,6 @@ Ao projetar um **header** (também conhecido como **App Bar**) para uma aplicaç
 3. Label descrevendo navegação principal:  `<nav aria-label=”links principais”>`
 4. Lista e atributo indicando link selecionado: `<ul><li><a href=”...” aria-current=”page”>Link 3</ul>`
 5. Label descrevendo navegção por ícone: `<nav aria-label=”ícones globais”>`
-
-
 
 
 
