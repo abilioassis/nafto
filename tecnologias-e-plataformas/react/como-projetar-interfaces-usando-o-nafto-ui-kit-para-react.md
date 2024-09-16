@@ -21,7 +21,9 @@ Ao projetar um **header** (também conhecido como **App Bar**) para uma aplicaç
 
 ### Exemplos de header
 
-<figure><img src="../../.gitbook/assets/conjunto-headers.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/conjunto-headers (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Header com notas de acessibilidade
 
