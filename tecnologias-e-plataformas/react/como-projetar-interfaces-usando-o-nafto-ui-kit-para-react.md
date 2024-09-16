@@ -23,8 +23,8 @@ Ao projetar um **header** (também conhecido como **App Bar**) para uma aplicaç
 
 <figure><img src="../../.gitbook/assets/header-anotado.png" alt=""><figcaption></figcaption></figure>
 
-1. Landmarks:  \<header role=”banner”>
-2. Título: H6
+1. Landmarks:  `<header role=”banner”>`
+2. Título: `H6`
 3. Label descrevendo navegação principal:  `<nav aria-label=”links principais”>`
 4. Lista e atributo indicando link selecionado: `<ul><li><a href=”...” aria-current=”page”>Link 3</ul>`
 5. Label descrevendo navegção por ícone: `<nav aria-label=”ícones globais”>`
