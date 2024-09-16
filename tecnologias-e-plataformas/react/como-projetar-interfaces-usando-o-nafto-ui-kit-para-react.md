@@ -23,6 +23,10 @@ Ao projetar um **header** (também conhecido como **App Bar**) para uma aplicaç
 
 <figure><img src="../../.gitbook/assets/conjunto-headers (3).png" alt=""><figcaption></figcaption></figure>
 
+### Header Tablet
+
+### Header Celular
+
 ### Acessibilidade no header
 
 <figure><img src="../../.gitbook/assets/header-anotado.png" alt=""><figcaption></figcaption></figure>
