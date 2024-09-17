@@ -1,6 +1,6 @@
 # Como projetar interfaces usando o Nafto UI Kit para React?
 
-## Como projetar um header?
+## Use um header padronizado
 
 Ao projetar um **header** (também conhecido como **App Bar**) para uma aplicação, é importante garantir que ele seja funcional, acessível e reflita a identidade visual da empresa. A **App Bar** serve como o principal ponto de navegação global e agrupamento de ícones e links essenciais. A seguir, detalhamos a anatomia do header que foi projetado.
 
