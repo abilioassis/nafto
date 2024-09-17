@@ -31,13 +31,13 @@ Ao projetar um **header** (também conhecido como **App Bar**) para uma aplicaç
 
 <figure><img src="../../.gitbook/assets/header-anotado.png" alt=""><figcaption></figcaption></figure>
 
-1. **Landmark do header**: `<header role="banner">`\
-   O elemento `<header>` com o atributo `role="banner"` indica que esta é a seção principal do cabeçalho da página.
-2. **Título**: `<h6>`\
-   O título da aplicação ou seção deve ser marcado com um elemento `<h6>`, embora o nível do título dependa da hierarquia semântica da página.
+1. **Landmark do header**: `<header>`\
+   O elemento `<header>` já possui, por padrão, o papel de landmark com o `role="banner"`, portanto, não é necessário adicionar esse atributo manualmente. Ele indica que esta é a seção principal do cabeçalho da página.
+2. **Título (Typography)**: `<h6>`\
+   O título da aplicação deve ser marcado com um elemento `<h6>`, respeitando a hierarquia semântica da página. Além disso, o título deve atender aos critérios de **contraste mínimo AA**, garantindo que a cor do texto tenha contraste suficiente com o fundo do header (geralmente estilizado com **Paper**), para garantir acessibilidade visual adequada.
 3. **Label descrevendo navegação principal**:\
    `<nav aria-label="links principais">`\
-   A navegação principal deve ser envolvida em um elemento `<nav>` com o atributo `aria-label` para descrever sua função, neste caso, "links principais".
+   O elemento `<nav>` já exerce o papel de **landmark** (`navigation`), indicando que ele contém a navegação principal da página. Adicionar um atributo `aria-label` descrevendo sua função (neste caso, "links principais") melhora a acessibilidade para tecnologias assistivas, permitindo que os usuários entendam que se trata da navegação principal.
 4. **Lista de links e indicação do link selecionado**:\
    A lista de links de navegação deve ser estruturada com o elemento `<ul>`. O link selecionado na navegação deve conter o atributo `aria-current="page"`.
 
