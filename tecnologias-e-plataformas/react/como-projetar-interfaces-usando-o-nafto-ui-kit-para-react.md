@@ -33,7 +33,7 @@ Ao projetar um **header** (também conhecido como **App Bar**) para uma aplicaç
 
 ### Acessibilidade no header
 
-<figure><img src="../../.gitbook/assets/header-acessibilidade (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/header-acessibilidade (3).png" alt=""><figcaption></figcaption></figure>
 
 1. **Landmark do header**: `<header>`\
    O elemento `<header>` já possui, por padrão, o papel de landmark com o `role="banner"`, portanto, não é necessário adicionar esse atributo manualmente. Ele indica que esta é a seção principal do cabeçalho da página.
