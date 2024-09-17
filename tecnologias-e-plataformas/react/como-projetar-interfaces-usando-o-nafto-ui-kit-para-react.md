@@ -21,8 +21,6 @@ Ao projetar um **header** (também conhecido como **App Bar**) para uma aplicaç
 
 ### Header Desktop
 
-
-
 <figure><img src="../../.gitbook/assets/conjunto-headers.png" alt=""><figcaption></figcaption></figure>
 
 ### Header Tablet
@@ -31,7 +29,7 @@ Ao projetar um **header** (também conhecido como **App Bar**) para uma aplicaç
 
 ### Header Celular
 
-<figure><img src="../../.gitbook/assets/conjunto-headers-celular.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conjunto-headers-celular (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Acessibilidade no header
 
