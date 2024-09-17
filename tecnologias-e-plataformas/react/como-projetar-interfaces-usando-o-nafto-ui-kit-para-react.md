@@ -21,9 +21,13 @@ Ao projetar um **header** (também conhecido como **App Bar**) para uma aplicaç
 
 ### Header Desktop
 
-<figure><img src="../../.gitbook/assets/conjunto-headers (3).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/conjunto-headers.png" alt=""><figcaption></figcaption></figure>
 
 ### Header Tablet
+
+<figure><img src="../../.gitbook/assets/conjunto-headers-tablet.png" alt=""><figcaption></figcaption></figure>
 
 ### Header Celular
 
@@ -50,8 +54,6 @@ Ao projetar um **header** (também conhecido como **App Bar**) para uma aplicaç
 5. **Label descrevendo navegação por ícones**:\
    `<nav aria-label="ícones globais">`\
    A navegação através de ícones globais (como notificações ou perfil de usuário) deve ser envolvida por um `<nav>` com o atributo `aria-label="ícones globais"` para proporcionar acessibilidade adequada.
-
-
 
 ## Como projetar um footer?
 
