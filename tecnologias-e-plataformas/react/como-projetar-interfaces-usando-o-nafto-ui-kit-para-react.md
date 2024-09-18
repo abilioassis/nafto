@@ -8,7 +8,7 @@ Foi desenvolvido um header padronizado para refletir a identidade visual da Cia 
 
 O componente `AppBar` serve como o principal ponto de navegação global, agrupando ícones e links essenciais. A seguir, detalhamos a anatomia deste header padronizado, destacando seus principais componentes e como utilizá-los corretamente.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/header-estrutura.png" alt=""><figcaption><p>Estrutura do header no Figma</p></figcaption></figure>
 
 * **App Bar**: O elemento base do header. Ele funciona como um contêiner principal que organiza os elementos de navegação e exibição. Em muitos casos, é usado em conjunto com o **Paper** para criar um efeito de elevação, dando destaque à barra de navegação.
 * **Paper**: O uso do componente **Paper** na **App Bar** ajuda a criar uma separação visual entre a barra de navegação e o restante da interface. A elevação aplicada pelo **Paper** cria uma sensação de profundidade, essencial para destacar o header.
@@ -18,6 +18,8 @@ O componente `AppBar` serve como o principal ponto de navegação global, agrupa
     * **Typography (Título da Aplicação)**: O nome ou título da aplicação é exibido de maneira clara, facilitando a identificação do sistema em uso.
   * **Lado Direito** (**Stack com Links e Ícones Globais**): No lado direito do header, os elementos são organizados em um **Stack** que alinha os principais itens globais.
     * **Links**: São os links de navegação global que levam o usuário às principais seções da aplicação.
+    * **Search**: O componente **Search** permite que os usuários façam buscas dentro da aplicação. Normalmente, é composto por um campo de entrada de texto com um ícone de lupa que facilita a busca de informações de forma rápida e intuitiva.
+    * **ListItem**: O **ListItem** é um componente que organiza itens individuais dentro de uma lista, como em menus ou dropdowns. Ele é usado para representar opções selecionáveis, como links de navegação, facilitando a interação do usuário com os itens da interface.
     * **Ícones Globais**: Incluem ícones como notificações, perfil do usuário e configurações, proporcionando acesso rápido a funcionalidades importantes.
     * **Marca (Logomarca da Empresa)**: A logomarca da empresa deve estar presente de forma destacada, reforçando a identidade visual e a presença da marca.
 
