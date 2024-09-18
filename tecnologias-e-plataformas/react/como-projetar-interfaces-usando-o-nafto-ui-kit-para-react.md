@@ -31,7 +31,7 @@ O componente `AppBar` serve como o principal ponto de navegação global, agrupa
 
 ### Header Celular
 
-<figure><img src="../../.gitbook/assets/header-celular.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/header-celular (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Acessibilidade no header
 
