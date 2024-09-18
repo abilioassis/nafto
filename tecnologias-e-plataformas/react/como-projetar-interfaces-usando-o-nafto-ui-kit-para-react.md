@@ -20,7 +20,7 @@ O componente `AppBar` serve como o principal ponto de navegação global, agrupa
     * **Links**: São os links de navegação global que levam o usuário às principais seções da aplicação.
     * **Search**: O componente **Search** permite que os usuários façam buscas dentro da aplicação. Normalmente, é composto por um campo de entrada de texto com um ícone de lupa que facilita a busca de informações de forma rápida e intuitiva.
     * **ListItem**: O **ListItem** é um componente que organiza itens individuais dentro de uma lista, como em menus ou dropdowns. Ele é usado para representar opções selecionáveis, como links de navegação, facilitando a interação do usuário com os itens da interface.
-    * **Ícones Globais**: Incluem ícones como notificações, perfil do usuário e configurações, proporcionando acesso rápido a funcionalidades importantes.
+    * **Ícones**: Incluem ícones como notificações, perfil do usuário e configurações, proporcionando acesso rápido a funcionalidades importantes.
     * **Marca (Logomarca da Empresa)**: A logomarca da empresa deve estar presente de forma destacada, reforçando a identidade visual e a presença da marca.
 
 ### Header Desktop
