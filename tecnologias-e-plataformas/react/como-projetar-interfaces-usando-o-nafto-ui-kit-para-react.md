@@ -27,7 +27,7 @@ O componente `AppBar` serve como o principal ponto de navegação global, agrupa
 
 Os seguintes elementos são obrigatórios para todos os headers na aplicação:
 
-* **Título da aplicação**: Exibe o nome da aplicação de forma clara, facilitando a identificação do sistema pelo usuário.
+* **Nome da aplicação**: Exibe o nome da aplicação de forma clara, facilitando a identificação do sistema pelo usuário.
 * **Marca da empresa**: A logomarca da empresa deve ser destacada para reforçar a identidade visual e a presença corporativa.
 
 Elementos adicionais, como o **menu de hambúrguer**, **links**, **ícones globais**, **barra de busca** (search), e **itens de lista** (list item), são opcionais e podem ser incluídos conforme as necessidades específicas da aplicação.
