@@ -23,7 +23,7 @@ O componente `AppBar` serve como o principal ponto de navegação global, agrupa
 
 ### Header Desktop
 
-<figure><img src="../../.gitbook/assets/header-desktop (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/header-desktop (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Header Tablet
 
