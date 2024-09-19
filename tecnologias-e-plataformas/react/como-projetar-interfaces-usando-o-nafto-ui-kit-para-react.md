@@ -32,17 +32,15 @@ Os seguintes elementos são obrigatórios para todos os headers na aplicação:
 
 Elementos adicionais, como o **menu de hambúrguer**, **links**, **ícones globais**, **barra de busca** (search), e **itens de lista** (list item), são opcionais e podem ser incluídos conforme as necessidades específicas da aplicação.
 
-### Header Desktop
+### Header Desktop: 1200 - 1920+ px
 
 <figure><img src="../../.gitbook/assets/header-desktop (6).png" alt=""><figcaption></figcaption></figure>
 
-### Header Tablet
+### Header Tablet: 600 - 1200px
 
 <figure><img src="../../.gitbook/assets/header-tablet (2).png" alt=""><figcaption></figcaption></figure>
 
-### Header Celular
-
-<figure><img src="../../.gitbook/assets/header-celular (4).png" alt=""><figcaption></figcaption></figure>
+### Header Celular: 320 - 600px
 
 ### Acessibilidade no header
 
