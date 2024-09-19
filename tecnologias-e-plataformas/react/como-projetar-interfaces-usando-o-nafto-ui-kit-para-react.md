@@ -34,11 +34,11 @@ Elementos adicionais, como o **menu de hambúrguer**, **links**, **ícones globa
 
 ### Header Desktop
 
-<figure><img src="../../.gitbook/assets/header-desktop (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/header-desktop (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Header Tablet
 
-<figure><img src="../../.gitbook/assets/header-tablet.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/header-tablet (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Header Celular
 
