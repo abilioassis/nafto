@@ -51,9 +51,6 @@
 ## Semana: 9 - 13/SET
 
 * \[FAZENDO] TECNOLOGIA E PLATAFORMAS
-  * \[FAZENDO] Implementar Headers no **Nafto UI Kit para React**.
-    * Adicionado notas de Acessibilidade.
-    * Incluir a Barra de Acessibilidade desenvolvida para o OutSystems.
 * QUESTÕES:
   * \[CANCELADO] Reunião com Leonardo Jesus
     * Qual o perfil de acesso dos devs para o GitHub?
@@ -68,6 +65,9 @@
   * Validar com Rodrigo proposta de header para celular
 * \[A FAZER] Layouts de aplicação.
 * \[FAZENDO] Início do Projeto Piloto do Nafto para Refino (Maron).
+* \[A FAZER] Acessibilidade.
+  * \[CONCLUÍDO] Notas de Acessibilidade.
+  * \[ A FAZER] Incluir a Barra de Acessibilidade desenvolvida para o OutSystems.
 
 ## Semana: ??
 
