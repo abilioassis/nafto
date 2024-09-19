@@ -43,7 +43,7 @@
 ## Semana: 2 - 6/SET
 
 * \[CONCLUÍDO] Arquitetura da informação para: **React Interface Design**
-* \[FAZENDO] COLEÇÃO DE INTERFACES
+* \[CONCLUÍDO] WIREFRAME DE INTERFACES
   * \[CONCLUÍDO] Layouts de Header
   * \[CONCLUÍDO] Layouts de Aplicação
   * ...
@@ -54,26 +54,23 @@
   * \[FAZENDO] Implementar Headers no **Nafto UI Kit para React**.
     * Adicionado notas de Acessibilidade.
     * Incluir a Barra de Acessibilidade desenvolvida para o OutSystems.
-  * \[A FAZER] Implementar Layouts de Aplicação no **Nafto UI Kit para React**.
-  * \[A FAZER] Gerar arquivo do configuração JSON de tema para componentes React.
-*   QUESTÕES:
+* QUESTÕES:
+  * \[CANCELADO] Reunião com Leonardo Jesus
+    * Qual o perfil de acesso dos devs para o GitHub?
+      * Vamos adotar o mesmo critério para o Nafto.
+    * Adoção do GitBook.
+    * O site do Nafto será feito em Sharepoint.
+  * \[FAZENDO] Priorização do Projeto Piloto do Nafto para Refino (Maron).
 
-    * Reunião com Leonardo Jesus
-      * Qual o perfil de acesso dos devs para o GitHub?
-        * Vamos adotar o mesmo critério para o Nafto.
-      * Adoção do GitBook.
-    * Priorização do Projeto Piloto do Nafto para Refino (Maron).
-      * Compra de MUI for Figma.
-        * Preencher formulário.
+## Semana: 16 - 20/SET
 
+* \[CONCLUÍDA] Layouts de Header para React
+  * Validar com Rodrigo proposta de header para celular
+* \[A FAZER] Layouts de aplicação.
+* \[FAZENDO] Início do Projeto Piloto do Nafto para Refino (Maron).
 
+## Semana: ??
 
-
-
-## Semana: ?
-
-* \[ A FAZER] PILOTO
-  * Rodar um projeto a partir dos artefatos disponibilizados.
 * \[A FAZER] ACESSIBILIDADE
   * Exportar somente as instâncias dos componentes configurados.
     * Gerar um arquivo do Figma que poderia ser usado pelos designers.
