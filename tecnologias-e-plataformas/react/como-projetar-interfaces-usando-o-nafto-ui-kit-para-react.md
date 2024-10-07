@@ -70,15 +70,3 @@ Elementos adicionais, como o **menu de hambúrguer**, **links**, **ícones globa
 ```
 <nav aria-label="ícones globais">
 ```
-
-## Como projetar um footer?
-
-## Como projetar um modal pop-up?
-
-## Como projetar um card?
-
-## Como projetar uma tabela de dados?
-
-## Como projetar um formulário?
-
-## Como projetar a tela principal de uma aplicação?
