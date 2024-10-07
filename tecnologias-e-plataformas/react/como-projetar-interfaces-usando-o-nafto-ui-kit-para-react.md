@@ -4,7 +4,7 @@
 
 Foi desenvolvido um header padronizado para refletir a identidade visual da Cia e garantir que ele seja funcional e acessível.
 
-### **Estrutura do header no Figma**
+## **Estrutura do header no Figma**
 
 O componente `AppBar` serve como o principal ponto de navegação global, agrupando ícones e links essenciais. A seguir, detalhamos a anatomia deste header padronizado, destacando seus principais componentes e como utilizá-los corretamente.
 
@@ -23,7 +23,7 @@ O componente `AppBar` serve como o principal ponto de navegação global, agrupa
     * **Ícones**: Incluem ícones como notificações, perfil do usuário e configurações, proporcionando acesso rápido a funcionalidades importantes.
     * **Marca (Logomarca da Empresa)**: A logomarca da empresa deve estar presente de forma destacada, reforçando a identidade visual e a presença da marca.
 
-### Elementos Obrigatórios do Header
+## Elementos Obrigatórios do Header
 
 Os seguintes elementos são obrigatórios para todos os headers na aplicação:
 
@@ -32,19 +32,19 @@ Os seguintes elementos são obrigatórios para todos os headers na aplicação:
 
 Elementos adicionais, como o **menu de hambúrguer**, **links**, **ícones globais**, **barra de busca** (search), e **itens de lista** (list item), são opcionais e podem ser incluídos conforme as necessidades específicas da aplicação.
 
-### Header Desktop: 1200 - 1920+ px
+## Header Desktop: 1200 - 1920+ px
 
 <figure><img src="../../.gitbook/assets/header-desktop.png" alt=""><figcaption></figcaption></figure>
 
-### Header Tablet: 600 - 1200px
+## Header Tablet: 600 - 1200px
 
 <figure><img src="../../.gitbook/assets/header-tablet.png" alt=""><figcaption></figcaption></figure>
 
-### Header Celular: 320 - 600px
+## Header Celular: 320 - 600px
 
 <figure><img src="../../.gitbook/assets/header-celular.png" alt=""><figcaption></figcaption></figure>
 
-### Acessibilidade no header
+## Acessibilidade no header
 
 <figure><img src="../../.gitbook/assets/header-acessibilidade.png" alt=""><figcaption></figcaption></figure>
 
