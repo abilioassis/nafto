@@ -49,14 +49,14 @@ Elementos adicionais, como o **menu de hambúrguer**, **links**, **ícones globa
 <figure><img src="../../.gitbook/assets/header-acessibilidade.png" alt=""><figcaption></figcaption></figure>
 
 1. **Landmark do header**: `<header>`\
-   O elemento `<header>` já possui, por padrão, o papel de landmark com o `role="banner"`, portanto, não é necessário adicionar esse atributo manualmente. Ele indica que esta é a seção principal do cabeçalho da página.
+   O elemento HTML `<header>` já possui, por padrão, o papel de landmark com o `role="banner"`, portanto, não é necessário adicionar esse atributo manualmente. Ele indica que esta é a seção principal do cabeçalho da página.
 2. **Título (Typography)**: `<h6>`\
    O título da aplicação deve ser marcado com um elemento `<h6>`, respeitando a hierarquia semântica da página. Além disso, o título deve atender aos critérios de **contraste mínimo AA**, garantindo que a cor do texto tenha contraste suficiente com o fundo do header (geralmente estilizado com **Paper**), para garantir acessibilidade visual adequada.
 3. **Label descrevendo navegação principal**:\
    `<nav aria-label="links principais">`\
-   O elemento `<nav>` já exerce o papel de **landmark** (`navigation`), indicando que ele contém a navegação principal da página. Adicionar um atributo `aria-label` descrevendo sua função (neste caso, "links principais") melhora a acessibilidade para tecnologias assistivas, permitindo que os usuários entendam que se trata da navegação principal.
+   O elemento HTML `<nav>` já exerce o papel de **landmark** (`navigation`), indicando que ele contém a navegação principal da página. Adicionar um atributo `aria-label` descrevendo sua função (neste caso, "links principais") melhora a acessibilidade para tecnologias assistivas, permitindo que os usuários entendam que se trata da navegação principal.
 4. **Lista de links e indicação do link selecionado**:\
-   A lista de links de navegação deve ser estruturada com o elemento `<ul>`. O link selecionado na navegação deve conter o atributo `aria-current="page"`.
+   É recomendado que a lista de links de navegação seja estruturada com o elemento HTML `<ul>`. O link selecionado na navegação deve conter o atributo `aria-current="page"`.
 
 ```html
 <ul>
@@ -65,8 +65,11 @@ Elementos adicionais, como o **menu de hambúrguer**, **links**, **ícones globa
 ```
 
 5. **Label descrevendo navegação por ícones**:\
-   `<nav aria-label="ícones globais">`\
-   A navegação através de ícones globais (como notificações ou perfil de usuário) deve ser envolvida por um `<nav>` com o atributo `aria-label="ícones globais"` para proporcionar acessibilidade adequada.
+   É recomendado que a navegação através de ícones globais (como notificações ou perfil de usuário) seja envolvida por um `<nav>` com o atributo `aria-label="ícones globais"` para proporcionar acessibilidade adequada.
+
+```
+<nav aria-label="ícones globais">
+```
 
 ## Como projetar um footer?
 
