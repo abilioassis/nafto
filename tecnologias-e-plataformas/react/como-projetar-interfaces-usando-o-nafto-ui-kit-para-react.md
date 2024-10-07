@@ -55,8 +55,8 @@ Elementos adicionais, como o **menu de hambúrguer**, **links**, **ícones globa
 3. **Label descrevendo navegação principal**:\
    `<nav aria-label="links principais">`\
    O elemento HTML `<nav>` já exerce o papel de **landmark** (`navigation`), indicando que ele contém a navegação principal da página. Adicionar um atributo `aria-label` descrevendo sua função (neste caso, "links principais") melhora a acessibilidade para tecnologias assistivas, permitindo que os usuários entendam que se trata da navegação principal.
-4. **Lista de links e indicação do link selecionado**:\
-   É recomendado que a lista de links de navegação seja estruturada com o elemento HTML `<ul>`. O link selecionado na navegação deve conter o atributo `aria-current="page"`.
+4. **Lista de links e identificação do link selecionado:**\
+   Recomenda-se que a lista de links de navegação seja estruturada utilizando o elemento HTML `<ul>`. Para melhorar a acessibilidade, atribua o atributo `aria-current="page"` ao link correspondente à página atual. Isso permitirá que leitores de tela anunciem o link selecionado, facilitando a navegação para usuários com deficiência visual.
 
 ```html
 <ul>
