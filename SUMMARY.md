@@ -49,7 +49,7 @@
     * [O que você precisa saber sobre React?](tecnologias-e-plataformas/react/por-onde-comecar/o-que-voce-precisa-saber-sobre-react.md)
     * [O que você precisa saber sobre Material UI?](tecnologias-e-plataformas/react/por-onde-comecar/o-que-voce-precisa-saber-sobre-material-ui.md)
     * [O que você precisa saber sobre Nafto UI Kit para React?](tecnologias-e-plataformas/react/por-onde-comecar/o-que-voce-precisa-saber-sobre-nafto-ui-kit-para-react.md)
-  * [Como projetar interfaces usando o Nafto UI Kit para React?](tecnologias-e-plataformas/react/como-projetar-interfaces-usando-o-nafto-ui-kit-para-react.md)
+  * [Use um header padronizado](tecnologias-e-plataformas/react/use-um-header-padronizado.md)
 * [Angular](tecnologias-e-plataformas/angular/README.md)
   * [Nafto UI Kit para Angular](tecnologias-e-plataformas/angular/nafto-ui-kit-para-angular.md)
 * [Power BI](tecnologias-e-plataformas/power-bi.md)

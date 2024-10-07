@@ -1,8 +1,10 @@
-# Como projetar interfaces usando o Nafto UI Kit para React?
+---
+description: >-
+  Foi desenvolvido um header padronizado para refletir a identidade visual da
+  Cia e garantir que ele seja funcional e acessível.
+---
 
-## Use um header padronizado
-
-Foi desenvolvido um header padronizado para refletir a identidade visual da Cia e garantir que ele seja funcional e acessível.
+# Use um header padronizado
 
 ## **Estrutura do header no Figma**
 
