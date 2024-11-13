@@ -34,7 +34,7 @@
 * [React](tecnologias-e-plataformas/react.md)
 * [OutSystems](tecnologias-e-plataformas/outsystems/README.md)
   * [Nafto UI Kit para OutSystems](tecnologias-e-plataformas/outsystems/nafto-ui-kit-para-outsystems.md)
-* [React](tecnologias-e-plataformas/react-1.md)
+* [React Old](tecnologias-e-plataformas/react-old.md)
 * [Use um Layout Padronizado](tecnologias-e-plataformas/use-um-layout-padronizado.md)
 * [Use um header padronizado](tecnologias-e-plataformas/use-um-header-padronizado.md)
 * [Angular](tecnologias-e-plataformas/angular/README.md)

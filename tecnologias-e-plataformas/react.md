@@ -6,12 +6,6 @@ description: >-
 
 # React
 
-React se baseia no conceito de composição de componentes, facilitando o desenvolvimento de UIs complexas, dinâmicas e reutilizáveis.
-
 ## Arquitetura do Nafto para React
 
-<figure><img src="../.gitbook/assets/react-arquitetura.png" alt=""><figcaption><p>O Nafto suporta a criação de aplicações React tanto nativas quanto para a web.</p></figcaption></figure>
-
-
-
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Nafto para React suporta tanto o desenvolvimento de aplicações web quanto nativas.</p></figcaption></figure>
