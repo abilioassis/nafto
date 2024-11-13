@@ -10,7 +10,7 @@ React é uma biblioteca JavaScript desenvolvida pelo Facebook (hoje Meta) para a
 
 Construída sobre a fundação do React, a biblioteca MUI oferece uma gama extensa de componentes de UI prontos para uso, que facilitam o desenvolvimento de interfaces ricas e consistentes. É a biblioteca recomenda para o desenvolvimento de aplicações React. O MUI é baseado nas especificações do Material Design do Google.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Relacionamento entre Material UI e Material Design</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Relacionamento entre Material UI e Material Design</p></figcaption></figure>
 
 ## Produtos Oferecidos pela MUI <a href="#produtos-oferecidos-pela-mui" id="produtos-oferecidos-pela-mui"></a>
 
