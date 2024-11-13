@@ -6,6 +6,10 @@ A paleta de cores é um elemento fundamental da identidade visual de nossa marca
 
 São as cores presentes no símbolo e no logotipo da marca Petrobras e suas versões. Por isso, nos identificam facilmente e devem estar presente na comunicação da companhia.
 
+<table data-header-hidden><thead><tr><th width="158"></th><th></th></tr></thead><tbody><tr><td>#008542</td><td><img src="../.gitbook/assets/image (41).png" alt="" data-size="original"></td></tr><tr><td>#FDC82F</td><td><img src="../.gitbook/assets/image (42).png" alt="" data-size="original"></td></tr></tbody></table>
+
+
+
 <figure><img src="../.gitbook/assets/cores-principais.png" alt=""><figcaption><p>Cores Principais da Petrobras</p></figcaption></figure>
 
 &#x20;É útil ter variantes claras e escuras das cores primárias para compor o tema de cores de uma aplicação.  Ao usar o plugin "Material Palette" no Figma para a cor Verde Petrobras o plugin gera uma paleta de cores completa baseada nessa cor específica.
